@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\AnnonymousType\bin\Debug\net6.0\AnnonymousType.exe
+H:\Dev Skill\C-Sharp\AnnonymousType\bin\Debug\net6.0\AnnonymousType.deps.json
+H:\Dev Skill\C-Sharp\AnnonymousType\bin\Debug\net6.0\AnnonymousType.runtimeconfig.json
+H:\Dev Skill\C-Sharp\AnnonymousType\bin\Debug\net6.0\AnnonymousType.dll
+H:\Dev Skill\C-Sharp\AnnonymousType\bin\Debug\net6.0\AnnonymousType.pdb
+H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.dll
+H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\refint\AnnonymousType.dll
+H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.pdb
+H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\ref\AnnonymousType.dll
