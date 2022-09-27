@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\CsharpBasic\bin\Debug\net6.0\CsharpBasic.exe
+H:\Dev Skill\C-Sharp\CsharpBasic\bin\Debug\net6.0\CsharpBasic.deps.json
+H:\Dev Skill\C-Sharp\CsharpBasic\bin\Debug\net6.0\CsharpBasic.runtimeconfig.json
+H:\Dev Skill\C-Sharp\CsharpBasic\bin\Debug\net6.0\CsharpBasic.dll
+H:\Dev Skill\C-Sharp\CsharpBasic\bin\Debug\net6.0\CsharpBasic.pdb
+H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.dll
+H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\refint\CsharpBasic.dll
+H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.pdb
+H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\ref\CsharpBasic.dll

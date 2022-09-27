@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\AbstractExample\bin\Debug\net6.0\AbstractExample.exe
+H:\Dev Skill\C-Sharp\AbstractExample\bin\Debug\net6.0\AbstractExample.deps.json
+H:\Dev Skill\C-Sharp\AbstractExample\bin\Debug\net6.0\AbstractExample.runtimeconfig.json
+H:\Dev Skill\C-Sharp\AbstractExample\bin\Debug\net6.0\AbstractExample.dll
+H:\Dev Skill\C-Sharp\AbstractExample\bin\Debug\net6.0\AbstractExample.pdb
+H:\Dev Skill\C-Sharp\AbstractExample\obj\Debug\net6.0\AbstractExample.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\AbstractExample\obj\Debug\net6.0\AbstractExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\AbstractExample\obj\Debug\net6.0\AbstractExample.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\AbstractExample\obj\Debug\net6.0\AbstractExample.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\AbstractExample\obj\Debug\net6.0\AbstractExample.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\AbstractExample\obj\Debug\net6.0\AbstractExample.dll
+H:\Dev Skill\C-Sharp\AbstractExample\obj\Debug\net6.0\refint\AbstractExample.dll
+H:\Dev Skill\C-Sharp\AbstractExample\obj\Debug\net6.0\AbstractExample.pdb
+H:\Dev Skill\C-Sharp\AbstractExample\obj\Debug\net6.0\AbstractExample.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\AbstractExample\obj\Debug\net6.0\ref\AbstractExample.dll
