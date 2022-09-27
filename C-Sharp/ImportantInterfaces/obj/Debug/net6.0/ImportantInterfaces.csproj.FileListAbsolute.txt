@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\bin\Debug\net6.0\ImportantInterfaces.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\bin\Debug\net6.0\ImportantInterfaces.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\bin\Debug\net6.0\ImportantInterfaces.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\bin\Debug\net6.0\ImportantInterfaces.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\bin\Debug\net6.0\ImportantInterfaces.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\obj\Debug\net6.0\ImportantInterfaces.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\obj\Debug\net6.0\ImportantInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\obj\Debug\net6.0\ImportantInterfaces.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\obj\Debug\net6.0\ImportantInterfaces.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\obj\Debug\net6.0\ImportantInterfaces.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\obj\Debug\net6.0\ImportantInterfaces.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\obj\Debug\net6.0\refint\ImportantInterfaces.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\obj\Debug\net6.0\ImportantInterfaces.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\obj\Debug\net6.0\ImportantInterfaces.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ImportantInterfaces\obj\Debug\net6.0\ref\ImportantInterfaces.dll

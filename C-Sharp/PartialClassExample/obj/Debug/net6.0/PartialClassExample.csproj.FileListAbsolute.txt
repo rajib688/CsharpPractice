@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\PartialClassExample\bin\Debug\net6.0\PartialClassExample.exe
+H:\Dev Skill\C-Sharp\PartialClassExample\bin\Debug\net6.0\PartialClassExample.deps.json
+H:\Dev Skill\C-Sharp\PartialClassExample\bin\Debug\net6.0\PartialClassExample.runtimeconfig.json
+H:\Dev Skill\C-Sharp\PartialClassExample\bin\Debug\net6.0\PartialClassExample.dll
+H:\Dev Skill\C-Sharp\PartialClassExample\bin\Debug\net6.0\PartialClassExample.pdb
+H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.dll
+H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\refint\PartialClassExample.dll
+H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.pdb
+H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\ref\PartialClassExample.dll

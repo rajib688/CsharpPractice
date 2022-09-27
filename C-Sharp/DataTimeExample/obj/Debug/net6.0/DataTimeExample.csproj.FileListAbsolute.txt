@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\DataTimeExample\bin\Debug\net6.0\DataTimeExample.exe
+H:\Dev Skill\C-Sharp\DataTimeExample\bin\Debug\net6.0\DataTimeExample.deps.json
+H:\Dev Skill\C-Sharp\DataTimeExample\bin\Debug\net6.0\DataTimeExample.runtimeconfig.json
+H:\Dev Skill\C-Sharp\DataTimeExample\bin\Debug\net6.0\DataTimeExample.dll
+H:\Dev Skill\C-Sharp\DataTimeExample\bin\Debug\net6.0\DataTimeExample.pdb
+H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.dll
+H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\refint\DataTimeExample.dll
+H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.pdb
+H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\ref\DataTimeExample.dll

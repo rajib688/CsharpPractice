@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\StaticExample\bin\Debug\net6.0\StaticExample.exe
+H:\Dev Skill\C-Sharp\StaticExample\bin\Debug\net6.0\StaticExample.deps.json
+H:\Dev Skill\C-Sharp\StaticExample\bin\Debug\net6.0\StaticExample.runtimeconfig.json
+H:\Dev Skill\C-Sharp\StaticExample\bin\Debug\net6.0\StaticExample.dll
+H:\Dev Skill\C-Sharp\StaticExample\bin\Debug\net6.0\StaticExample.pdb
+H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.dll
+H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\refint\StaticExample.dll
+H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.pdb
+H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\ref\StaticExample.dll

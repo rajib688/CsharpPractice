@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.exe
+H:\Dev Skill\C-Sharp\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.deps.json
+H:\Dev Skill\C-Sharp\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.runtimeconfig.json
+H:\Dev Skill\C-Sharp\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.dll
+H:\Dev Skill\C-Sharp\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.pdb
+H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.dll
+H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\refint\ParameterModifiers.dll
+H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.pdb
+H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ref\ParameterModifiers.dll

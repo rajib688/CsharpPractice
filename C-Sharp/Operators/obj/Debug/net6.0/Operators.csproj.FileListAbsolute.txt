@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\Operators\bin\Debug\net6.0\Operators.exe
+H:\Dev Skill\C-Sharp\Operators\bin\Debug\net6.0\Operators.deps.json
+H:\Dev Skill\C-Sharp\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+H:\Dev Skill\C-Sharp\Operators\bin\Debug\net6.0\Operators.dll
+H:\Dev Skill\C-Sharp\Operators\bin\Debug\net6.0\Operators.pdb
+H:\Dev Skill\C-Sharp\Operators\obj\Debug\net6.0\Operators.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\Operators\obj\Debug\net6.0\Operators.dll
+H:\Dev Skill\C-Sharp\Operators\obj\Debug\net6.0\refint\Operators.dll
+H:\Dev Skill\C-Sharp\Operators\obj\Debug\net6.0\Operators.pdb
+H:\Dev Skill\C-Sharp\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\Operators\obj\Debug\net6.0\ref\Operators.dll

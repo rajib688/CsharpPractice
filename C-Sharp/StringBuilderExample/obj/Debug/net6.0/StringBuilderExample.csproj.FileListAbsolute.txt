@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.exe
+H:\Dev Skill\C-Sharp\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.deps.json
+H:\Dev Skill\C-Sharp\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.runtimeconfig.json
+H:\Dev Skill\C-Sharp\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.dll
+H:\Dev Skill\C-Sharp\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.pdb
+H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.dll
+H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\refint\StringBuilderExample.dll
+H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.pdb
+H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\ref\StringBuilderExample.dll

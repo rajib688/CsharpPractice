@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\TextOperations\bin\Debug\net6.0\TextOperations.exe
+H:\Dev Skill\C-Sharp\TextOperations\bin\Debug\net6.0\TextOperations.deps.json
+H:\Dev Skill\C-Sharp\TextOperations\bin\Debug\net6.0\TextOperations.runtimeconfig.json
+H:\Dev Skill\C-Sharp\TextOperations\bin\Debug\net6.0\TextOperations.dll
+H:\Dev Skill\C-Sharp\TextOperations\bin\Debug\net6.0\TextOperations.pdb
+H:\Dev Skill\C-Sharp\TextOperations\obj\Debug\net6.0\TextOperations.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\TextOperations\obj\Debug\net6.0\TextOperations.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\TextOperations\obj\Debug\net6.0\TextOperations.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\TextOperations\obj\Debug\net6.0\TextOperations.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\TextOperations\obj\Debug\net6.0\TextOperations.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\TextOperations\obj\Debug\net6.0\TextOperations.dll
+H:\Dev Skill\C-Sharp\TextOperations\obj\Debug\net6.0\refint\TextOperations.dll
+H:\Dev Skill\C-Sharp\TextOperations\obj\Debug\net6.0\TextOperations.pdb
+H:\Dev Skill\C-Sharp\TextOperations\obj\Debug\net6.0\TextOperations.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\TextOperations\obj\Debug\net6.0\ref\TextOperations.dll

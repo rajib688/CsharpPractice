@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\StructureExample\bin\Debug\net6.0\StructureExample.exe
+H:\Dev Skill\C-Sharp\StructureExample\bin\Debug\net6.0\StructureExample.deps.json
+H:\Dev Skill\C-Sharp\StructureExample\bin\Debug\net6.0\StructureExample.runtimeconfig.json
+H:\Dev Skill\C-Sharp\StructureExample\bin\Debug\net6.0\StructureExample.dll
+H:\Dev Skill\C-Sharp\StructureExample\bin\Debug\net6.0\StructureExample.pdb
+H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.dll
+H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\refint\StructureExample.dll
+H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.pdb
+H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\ref\StructureExample.dll

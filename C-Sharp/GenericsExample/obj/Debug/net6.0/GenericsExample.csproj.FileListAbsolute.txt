@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\bin\Debug\net6.0\GenericsExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\bin\Debug\net6.0\GenericsExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\bin\Debug\net6.0\GenericsExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\bin\Debug\net6.0\GenericsExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\bin\Debug\net6.0\GenericsExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\obj\Debug\net6.0\GenericsExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\obj\Debug\net6.0\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\obj\Debug\net6.0\GenericsExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\obj\Debug\net6.0\GenericsExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\obj\Debug\net6.0\GenericsExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\obj\Debug\net6.0\GenericsExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\obj\Debug\net6.0\refint\GenericsExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\obj\Debug\net6.0\GenericsExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\obj\Debug\net6.0\GenericsExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\GenericsExample\obj\Debug\net6.0\ref\GenericsExample.dll

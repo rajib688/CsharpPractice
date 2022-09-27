@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\EnumExample\bin\Debug\net6.0\EnumExample.exe
+H:\Dev Skill\C-Sharp\EnumExample\bin\Debug\net6.0\EnumExample.deps.json
+H:\Dev Skill\C-Sharp\EnumExample\bin\Debug\net6.0\EnumExample.runtimeconfig.json
+H:\Dev Skill\C-Sharp\EnumExample\bin\Debug\net6.0\EnumExample.dll
+H:\Dev Skill\C-Sharp\EnumExample\bin\Debug\net6.0\EnumExample.pdb
+H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.dll
+H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\refint\EnumExample.dll
+H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.pdb
+H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\ref\EnumExample.dll
