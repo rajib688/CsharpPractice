@@ -1,0 +1,15 @@
+H:\Dev Skill\C-Sharp\ConditionalStatments\bin\Debug\net6.0\ConditionalStatments.exe
+H:\Dev Skill\C-Sharp\ConditionalStatments\bin\Debug\net6.0\ConditionalStatments.deps.json
+H:\Dev Skill\C-Sharp\ConditionalStatments\bin\Debug\net6.0\ConditionalStatments.runtimeconfig.json
+H:\Dev Skill\C-Sharp\ConditionalStatments\bin\Debug\net6.0\ConditionalStatments.dll
+H:\Dev Skill\C-Sharp\ConditionalStatments\bin\Debug\net6.0\ConditionalStatments.pdb
+H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.csproj.AssemblyReference.cache
+H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.GeneratedMSBuildEditorConfig.editorconfig
+H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.AssemblyInfoInputs.cache
+H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.AssemblyInfo.cs
+H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.csproj.CoreCompileInputs.cache
+H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.dll
+H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\refint\ConditionalStatments.dll
+H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.pdb
+H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.genruntimeconfig.cache
+H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ref\ConditionalStatments.dll
