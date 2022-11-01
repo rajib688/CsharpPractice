@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\refint\Watermelon_4A.dll
 H:\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\Watermelon_4A.pdb
 H:\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\Watermelon_4A.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\ref\Watermelon_4A.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\bin\Debug\net6.0\Watermelon_4A.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\bin\Debug\net6.0\Watermelon_4A.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\bin\Debug\net6.0\Watermelon_4A.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\bin\Debug\net6.0\Watermelon_4A.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\bin\Debug\net6.0\Watermelon_4A.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\Watermelon_4A.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\Watermelon_4A.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\Watermelon_4A.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\Watermelon_4A.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\Watermelon_4A.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\Watermelon_4A.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\refint\Watermelon_4A.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\Watermelon_4A.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\Watermelon_4A.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Watermelon_4A\obj\Debug\net6.0\ref\Watermelon_4A.dll

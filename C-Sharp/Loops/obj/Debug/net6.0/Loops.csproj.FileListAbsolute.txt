@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\refint\Loops.dll
 H:\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\Loops.pdb
 H:\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\ref\Loops.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\bin\Debug\net6.0\Loops.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\bin\Debug\net6.0\Loops.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\bin\Debug\net6.0\Loops.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\bin\Debug\net6.0\Loops.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\Loops.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\refint\Loops.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\Loops.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\Loops\obj\Debug\net6.0\ref\Loops.dll

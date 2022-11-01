@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\refint\StructureExample.d
 H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.pdb
 H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\ref\StructureExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\bin\Debug\net6.0\StructureExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\bin\Debug\net6.0\StructureExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\bin\Debug\net6.0\StructureExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\bin\Debug\net6.0\StructureExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\bin\Debug\net6.0\StructureExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\refint\StructureExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\StructureExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StructureExample\obj\Debug\net6.0\ref\StructureExample.dll

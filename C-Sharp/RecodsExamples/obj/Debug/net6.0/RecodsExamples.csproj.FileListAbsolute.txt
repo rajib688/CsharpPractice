@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\bin\Debug\net6.0\RecodsExamples.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\bin\Debug\net6.0\RecodsExamples.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\bin\Debug\net6.0\RecodsExamples.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\bin\Debug\net6.0\RecodsExamples.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\bin\Debug\net6.0\RecodsExamples.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\obj\Debug\net6.0\RecodsExamples.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\obj\Debug\net6.0\RecodsExamples.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\obj\Debug\net6.0\RecodsExamples.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\obj\Debug\net6.0\RecodsExamples.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\obj\Debug\net6.0\RecodsExamples.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\obj\Debug\net6.0\RecodsExamples.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\obj\Debug\net6.0\refint\RecodsExamples.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\obj\Debug\net6.0\RecodsExamples.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\obj\Debug\net6.0\RecodsExamples.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\RecodsExamples\obj\Debug\net6.0\ref\RecodsExamples.dll

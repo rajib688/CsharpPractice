@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\refint\DataTimeExample.dll
 H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.pdb
 H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\ref\DataTimeExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\bin\Debug\net6.0\DataTimeExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\bin\Debug\net6.0\DataTimeExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\bin\Debug\net6.0\DataTimeExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\bin\Debug\net6.0\DataTimeExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\bin\Debug\net6.0\DataTimeExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\refint\DataTimeExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\DataTimeExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\DataTimeExample\obj\Debug\net6.0\ref\DataTimeExample.dll

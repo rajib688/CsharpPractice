@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\bin\Debug\net6.0\LambdaMethod.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\bin\Debug\net6.0\LambdaMethod.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\bin\Debug\net6.0\LambdaMethod.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\bin\Debug\net6.0\LambdaMethod.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\bin\Debug\net6.0\LambdaMethod.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\obj\Debug\net6.0\LambdaMethod.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\obj\Debug\net6.0\LambdaMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\obj\Debug\net6.0\LambdaMethod.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\obj\Debug\net6.0\LambdaMethod.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\obj\Debug\net6.0\LambdaMethod.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\obj\Debug\net6.0\LambdaMethod.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\obj\Debug\net6.0\refint\LambdaMethod.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\obj\Debug\net6.0\LambdaMethod.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\obj\Debug\net6.0\LambdaMethod.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LambdaMethod\obj\Debug\net6.0\ref\LambdaMethod.dll

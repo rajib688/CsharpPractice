@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\bin\Debug\net6.0\OOP2.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\bin\Debug\net6.0\OOP2.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\bin\Debug\net6.0\OOP2.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\bin\Debug\net6.0\OOP2.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\bin\Debug\net6.0\OOP2.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\obj\Debug\net6.0\OOP2.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\obj\Debug\net6.0\OOP2.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\obj\Debug\net6.0\OOP2.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\obj\Debug\net6.0\OOP2.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\obj\Debug\net6.0\OOP2.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\obj\Debug\net6.0\refint\OOP2.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\obj\Debug\net6.0\OOP2.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\obj\Debug\net6.0\OOP2.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\OOP2\obj\Debug\net6.0\ref\OOP2.dll

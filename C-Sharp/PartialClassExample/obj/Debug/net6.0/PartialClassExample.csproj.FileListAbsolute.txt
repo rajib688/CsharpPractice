@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\refint\PartialClassExa
 H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.pdb
 H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\ref\PartialClassExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\bin\Debug\net6.0\PartialClassExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\bin\Debug\net6.0\PartialClassExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\bin\Debug\net6.0\PartialClassExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\bin\Debug\net6.0\PartialClassExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\bin\Debug\net6.0\PartialClassExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\refint\PartialClassExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\PartialClassExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\PartialClassExample\obj\Debug\net6.0\ref\PartialClassExample.dll

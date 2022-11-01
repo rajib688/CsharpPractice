@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\obj\Debug\net6.0\FuncAction.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\obj\Debug\net6.0\FuncAction.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\obj\Debug\net6.0\FuncAction.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\obj\Debug\net6.0\FuncAction.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\obj\Debug\net6.0\FuncAction.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\bin\Debug\net6.0\FuncAction.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\bin\Debug\net6.0\FuncAction.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\bin\Debug\net6.0\FuncAction.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\bin\Debug\net6.0\FuncAction.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\bin\Debug\net6.0\FuncAction.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\obj\Debug\net6.0\FuncAction.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\obj\Debug\net6.0\refint\FuncAction.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\obj\Debug\net6.0\FuncAction.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\obj\Debug\net6.0\FuncAction.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FuncAction\obj\Debug\net6.0\ref\FuncAction.dll

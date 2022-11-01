@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\refint\AnnonymousType.dll
 H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.pdb
 H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\ref\AnnonymousType.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\bin\Debug\net6.0\AnnonymousType.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\bin\Debug\net6.0\AnnonymousType.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\bin\Debug\net6.0\AnnonymousType.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\bin\Debug\net6.0\AnnonymousType.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\bin\Debug\net6.0\AnnonymousType.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\refint\AnnonymousType.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\AnnonymousType.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\AnnonymousType\obj\Debug\net6.0\ref\AnnonymousType.dll

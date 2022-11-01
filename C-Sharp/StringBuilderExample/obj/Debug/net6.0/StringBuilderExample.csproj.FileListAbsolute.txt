@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\refint\StringBuilderE
 H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.pdb
 H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\ref\StringBuilderExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\refint\StringBuilderExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StringBuilderExample\obj\Debug\net6.0\ref\StringBuilderExample.dll

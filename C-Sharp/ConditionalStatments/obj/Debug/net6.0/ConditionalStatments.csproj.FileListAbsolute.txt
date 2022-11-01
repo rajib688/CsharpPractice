@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\refint\ConditionalSta
 H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.pdb
 H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ref\ConditionalStatments.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\bin\Debug\net6.0\ConditionalStatments.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\bin\Debug\net6.0\ConditionalStatments.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\bin\Debug\net6.0\ConditionalStatments.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\bin\Debug\net6.0\ConditionalStatments.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\bin\Debug\net6.0\ConditionalStatments.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\refint\ConditionalStatments.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ConditionalStatments.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ConditionalStatments\obj\Debug\net6.0\ref\ConditionalStatments.dll

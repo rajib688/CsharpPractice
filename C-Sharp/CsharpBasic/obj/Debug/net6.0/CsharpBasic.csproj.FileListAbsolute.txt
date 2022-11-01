@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\refint\CsharpBasic.dll
 H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.pdb
 H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\ref\CsharpBasic.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\bin\Debug\net6.0\CsharpBasic.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\bin\Debug\net6.0\CsharpBasic.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\bin\Debug\net6.0\CsharpBasic.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\bin\Debug\net6.0\CsharpBasic.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\bin\Debug\net6.0\CsharpBasic.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\refint\CsharpBasic.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\CsharpBasic.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\CsharpBasic\obj\Debug\net6.0\ref\CsharpBasic.dll

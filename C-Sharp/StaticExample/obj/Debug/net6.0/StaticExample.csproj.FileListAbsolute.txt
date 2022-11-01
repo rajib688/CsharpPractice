@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\refint\StaticExample.dll
 H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.pdb
 H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\ref\StaticExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\bin\Debug\net6.0\StaticExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\bin\Debug\net6.0\StaticExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\bin\Debug\net6.0\StaticExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\bin\Debug\net6.0\StaticExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\bin\Debug\net6.0\StaticExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\refint\StaticExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\StaticExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\StaticExample\obj\Debug\net6.0\ref\StaticExample.dll

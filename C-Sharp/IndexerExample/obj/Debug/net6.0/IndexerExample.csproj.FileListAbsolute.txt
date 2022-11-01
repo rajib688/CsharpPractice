@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\bin\Debug\net6.0\IndexerExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\bin\Debug\net6.0\IndexerExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\bin\Debug\net6.0\IndexerExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\bin\Debug\net6.0\IndexerExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\bin\Debug\net6.0\IndexerExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\obj\Debug\net6.0\IndexerExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\obj\Debug\net6.0\IndexerExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\obj\Debug\net6.0\IndexerExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\obj\Debug\net6.0\IndexerExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\obj\Debug\net6.0\IndexerExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\obj\Debug\net6.0\IndexerExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\obj\Debug\net6.0\refint\IndexerExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\obj\Debug\net6.0\IndexerExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\obj\Debug\net6.0\IndexerExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\IndexerExample\obj\Debug\net6.0\ref\IndexerExample.dll

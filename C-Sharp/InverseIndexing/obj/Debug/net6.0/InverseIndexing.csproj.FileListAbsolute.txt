@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\bin\Debug\net6.0\InverseIndexing.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\bin\Debug\net6.0\InverseIndexing.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\bin\Debug\net6.0\InverseIndexing.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\bin\Debug\net6.0\InverseIndexing.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\bin\Debug\net6.0\InverseIndexing.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\obj\Debug\net6.0\InverseIndexing.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\obj\Debug\net6.0\InverseIndexing.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\obj\Debug\net6.0\InverseIndexing.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\obj\Debug\net6.0\InverseIndexing.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\obj\Debug\net6.0\InverseIndexing.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\obj\Debug\net6.0\InverseIndexing.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\obj\Debug\net6.0\refint\InverseIndexing.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\obj\Debug\net6.0\InverseIndexing.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\obj\Debug\net6.0\InverseIndexing.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InverseIndexing\obj\Debug\net6.0\ref\InverseIndexing.dll

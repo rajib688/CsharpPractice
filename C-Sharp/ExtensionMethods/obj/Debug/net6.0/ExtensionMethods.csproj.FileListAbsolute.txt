@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\bin\Debug\net6.0\ExtensionMethods.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\obj\Debug\net6.0\refint\ExtensionMethods.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\obj\Debug\net6.0\ExtensionMethods.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExtensionMethods\obj\Debug\net6.0\ref\ExtensionMethods.dll

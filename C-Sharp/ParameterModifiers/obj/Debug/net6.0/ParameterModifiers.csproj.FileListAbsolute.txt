@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\refint\ParameterModifie
 H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.pdb
 H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ref\ParameterModifiers.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\refint\ParameterModifiers.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ParameterModifiers\obj\Debug\net6.0\ref\ParameterModifiers.dll

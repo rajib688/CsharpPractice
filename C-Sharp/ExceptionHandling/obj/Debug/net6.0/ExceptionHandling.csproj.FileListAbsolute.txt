@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll

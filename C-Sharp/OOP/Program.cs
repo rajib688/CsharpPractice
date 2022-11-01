@@ -2,7 +2,7 @@
 using OOP;
 
 Student student1 = new Student();
-student1.Name = Null;
+student1.Name = null;
 //student1.setRoll(1);
 
 Student student2 = new Student(2,"Rajib");

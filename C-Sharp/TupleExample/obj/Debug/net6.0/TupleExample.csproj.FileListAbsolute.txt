@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\refint\TupleExample.dll
 H:\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.pdb
 H:\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\ref\TupleExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\bin\Debug\net6.0\TupleExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\bin\Debug\net6.0\TupleExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\bin\Debug\net6.0\TupleExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\bin\Debug\net6.0\TupleExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\bin\Debug\net6.0\TupleExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\refint\TupleExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\TupleExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\TupleExample\obj\Debug\net6.0\ref\TupleExample.dll

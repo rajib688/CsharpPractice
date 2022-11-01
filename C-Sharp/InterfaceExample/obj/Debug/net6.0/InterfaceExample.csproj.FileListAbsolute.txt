@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\refint\InterfaceExample.d
 H:\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\InterfaceExample.pdb
 H:\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\InterfaceExample.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\ref\InterfaceExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\bin\Debug\net6.0\InterfaceExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\bin\Debug\net6.0\InterfaceExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\bin\Debug\net6.0\InterfaceExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\bin\Debug\net6.0\InterfaceExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\bin\Debug\net6.0\InterfaceExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\InterfaceExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\InterfaceExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\InterfaceExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\InterfaceExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\InterfaceExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\refint\InterfaceExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\InterfaceExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\InterfaceExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\InterfaceExample\obj\Debug\net6.0\ref\InterfaceExample.dll

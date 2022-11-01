@@ -13,3 +13,18 @@ H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\refint\EnumExample.dll
 H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.pdb
 H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.genruntimeconfig.cache
 H:\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\ref\EnumExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\bin\Debug\net6.0\EnumExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\bin\Debug\net6.0\EnumExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\bin\Debug\net6.0\EnumExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\bin\Debug\net6.0\EnumExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\bin\Debug\net6.0\EnumExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\refint\EnumExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\EnumExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\EnumExample\obj\Debug\net6.0\ref\EnumExample.dll

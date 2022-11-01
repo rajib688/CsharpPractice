@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\bin\Debug\net6.0\LinqExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\bin\Debug\net6.0\LinqExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\bin\Debug\net6.0\LinqExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\bin\Debug\net6.0\LinqExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\bin\Debug\net6.0\LinqExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\obj\Debug\net6.0\LinqExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\obj\Debug\net6.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\obj\Debug\net6.0\LinqExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\obj\Debug\net6.0\LinqExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\obj\Debug\net6.0\refint\LinqExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\obj\Debug\net6.0\LinqExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\obj\Debug\net6.0\LinqExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\LinqExample\obj\Debug\net6.0\ref\LinqExample.dll

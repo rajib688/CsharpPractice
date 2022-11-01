@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\bin\Debug\net6.0\SolidPrinciples.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\obj\Debug\net6.0\refint\SolidPrinciples.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\obj\Debug\net6.0\SolidPrinciples.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\SolidPrinciples\obj\Debug\net6.0\ref\SolidPrinciples.dll

@@ -9,7 +9,7 @@ using ImportantInterfaces;
 
 //PanelSwitch panelSwitch = new PanelSwitch();
 
-////Switch Switch = new Switch();
+//Switch Switch = new Switch();
 
 //machine.Operate(panelSwitch);
 
@@ -27,4 +27,13 @@ foreach (var p in people)
     Console.WriteLine(p.Name);
 }
 
+using Downloader downloader = new Downloader();
+downloader.Download("https://www.google.com");
 
+using (Downloader downloader2 = new Downloader())
+{
+    downloader2.Download("https://www.google.com");
+}
+
+Person persons3 = new Person();
+Person person4 = (Person)persons3.Clone();

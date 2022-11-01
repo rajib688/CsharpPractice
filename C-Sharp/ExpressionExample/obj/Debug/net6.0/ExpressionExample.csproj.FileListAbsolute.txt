@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\bin\Debug\net6.0\ExpressionExample.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\bin\Debug\net6.0\ExpressionExample.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\bin\Debug\net6.0\ExpressionExample.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\bin\Debug\net6.0\ExpressionExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\bin\Debug\net6.0\ExpressionExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\obj\Debug\net6.0\ExpressionExample.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\obj\Debug\net6.0\ExpressionExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\obj\Debug\net6.0\ExpressionExample.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\obj\Debug\net6.0\ExpressionExample.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\obj\Debug\net6.0\ExpressionExample.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\obj\Debug\net6.0\ExpressionExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\obj\Debug\net6.0\refint\ExpressionExample.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\obj\Debug\net6.0\ExpressionExample.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\obj\Debug\net6.0\ExpressionExample.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\ExpressionExample\obj\Debug\net6.0\ref\ExpressionExample.dll

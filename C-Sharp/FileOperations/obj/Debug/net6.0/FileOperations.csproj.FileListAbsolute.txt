@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\bin\Debug\net6.0\FileOperations.exe
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\bin\Debug\net6.0\FileOperations.deps.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\bin\Debug\net6.0\FileOperations.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\bin\Debug\net6.0\FileOperations.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\bin\Debug\net6.0\FileOperations.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\obj\Debug\net6.0\FileOperations.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\obj\Debug\net6.0\FileOperations.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\obj\Debug\net6.0\FileOperations.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\obj\Debug\net6.0\FileOperations.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\obj\Debug\net6.0\FileOperations.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\obj\Debug\net6.0\FileOperations.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\obj\Debug\net6.0\refint\FileOperations.dll
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\obj\Debug\net6.0\FileOperations.pdb
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\obj\Debug\net6.0\FileOperations.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\Dev Skill\C-Sharp\FileOperations\obj\Debug\net6.0\ref\FileOperations.dll
