@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\InputOutput\\InputOutput.csproj",
+      "projectUniqueName": "H:\\GitHub\\CsharpPractice\\C-Sharp\\InputOutput\\InputOutput.csproj",
       "projectName": "InputOutput",
-      "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\InputOutput\\InputOutput.csproj",
+      "projectPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\InputOutput\\InputOutput.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\InputOutput\\obj\\",
+      "outputPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\InputOutput\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

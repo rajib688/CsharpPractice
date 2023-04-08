@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\Watermelon_4A\\Watermelon_4A.csproj",
+      "projectUniqueName": "H:\\GitHub\\CsharpPractice\\C-Sharp\\Watermelon_4A\\Watermelon_4A.csproj",
       "projectName": "Watermelon_4A",
-      "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\Watermelon_4A\\Watermelon_4A.csproj",
+      "projectPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\Watermelon_4A\\Watermelon_4A.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\Watermelon_4A\\obj\\",
+      "outputPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\Watermelon_4A\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

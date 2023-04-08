@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\InverseIndexing\\InverseIndexing.csproj": {}
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\InverseIndexing\\InverseIndexing.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\InverseIndexing\\InverseIndexing.csproj": {
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\InverseIndexing\\InverseIndexing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\InverseIndexing\\InverseIndexing.csproj",
+        "projectUniqueName": "H:\\GitHub\\CsharpPractice\\C-Sharp\\InverseIndexing\\InverseIndexing.csproj",
         "projectName": "InverseIndexing",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\InverseIndexing\\InverseIndexing.csproj",
+        "projectPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\InverseIndexing\\InverseIndexing.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\InverseIndexing\\obj\\",
+        "outputPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\InverseIndexing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

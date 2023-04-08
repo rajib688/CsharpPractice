@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\LinqExample\\LinqExample.csproj": {}
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\LinqExample\\LinqExample.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\LinqExample\\LinqExample.csproj": {
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\LinqExample\\LinqExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\LinqExample\\LinqExample.csproj",
+        "projectUniqueName": "H:\\GitHub\\CsharpPractice\\C-Sharp\\LinqExample\\LinqExample.csproj",
         "projectName": "LinqExample",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\LinqExample\\LinqExample.csproj",
+        "projectPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\LinqExample\\LinqExample.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\LinqExample\\obj\\",
+        "outputPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\LinqExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

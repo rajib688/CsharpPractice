@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yBwX96cy9nasWvHqVVLfkKmpIjYXVML41Xij6jfHrNXiIMLpacOYWv9SM1ePEv9DkiFav/EYhPfW1JLJg4VOkA==",
+  "dgSpecHash": "8TA1aeKCvCFphJKfW6KDlD/EqdIW5Grl7BCTA9hMtZkpaD16TMeBK7f6h9R3qUpCAdfGfvk6WT/Muk9XlFfFNA==",
   "success": true,
-  "projectFilePath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\AdoDotNetExample\\AdoDotNetExample.csproj",
+  "projectFilePath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\AdoDotNetExample\\AdoDotNetExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

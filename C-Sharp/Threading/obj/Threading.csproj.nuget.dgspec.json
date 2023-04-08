@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\Threading\\Threading.csproj": {}
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\Threading\\Threading.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\Threading\\Threading.csproj": {
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\Threading\\Threading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\Threading\\Threading.csproj",
+        "projectUniqueName": "H:\\GitHub\\CsharpPractice\\C-Sharp\\Threading\\Threading.csproj",
         "projectName": "Threading",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\Threading\\Threading.csproj",
+        "projectPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\Threading\\Threading.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\Threading\\obj\\",
+        "outputPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\Threading\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

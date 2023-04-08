@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\StringBuilderExample\\StringBuilderExample.csproj": {}
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\StringBuilderExample\\StringBuilderExample.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\StringBuilderExample\\StringBuilderExample.csproj": {
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\StringBuilderExample\\StringBuilderExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\StringBuilderExample\\StringBuilderExample.csproj",
+        "projectUniqueName": "H:\\GitHub\\CsharpPractice\\C-Sharp\\StringBuilderExample\\StringBuilderExample.csproj",
         "projectName": "StringBuilderExample",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\StringBuilderExample\\StringBuilderExample.csproj",
+        "projectPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\StringBuilderExample\\StringBuilderExample.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\StringBuilderExample\\obj\\",
+        "outputPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\StringBuilderExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

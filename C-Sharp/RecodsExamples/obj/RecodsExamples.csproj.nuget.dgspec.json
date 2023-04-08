@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\RecodsExamples\\RecodsExamples.csproj": {}
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\RecodsExamples\\RecodsExamples.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\RecodsExamples\\RecodsExamples.csproj": {
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\RecodsExamples\\RecodsExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\RecodsExamples\\RecodsExamples.csproj",
+        "projectUniqueName": "H:\\GitHub\\CsharpPractice\\C-Sharp\\RecodsExamples\\RecodsExamples.csproj",
         "projectName": "RecodsExamples",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\RecodsExamples\\RecodsExamples.csproj",
+        "projectPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\RecodsExamples\\RecodsExamples.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\RecodsExamples\\obj\\",
+        "outputPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\RecodsExamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

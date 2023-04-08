@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\CsharpBasic\\CsharpBasic.csproj": {}
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\CsharpBasic\\CsharpBasic.csproj": {}
   },
   "projects": {
-    "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\CsharpBasic\\CsharpBasic.csproj": {
+    "H:\\GitHub\\CsharpPractice\\C-Sharp\\CsharpBasic\\CsharpBasic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\CsharpBasic\\CsharpBasic.csproj",
+        "projectUniqueName": "H:\\GitHub\\CsharpPractice\\C-Sharp\\CsharpBasic\\CsharpBasic.csproj",
         "projectName": "CsharpBasic",
-        "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\CsharpBasic\\CsharpBasic.csproj",
+        "projectPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\CsharpBasic\\CsharpBasic.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\CsharpBasic\\obj\\",
+        "outputPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\CsharpBasic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

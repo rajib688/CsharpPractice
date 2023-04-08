@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\TupleExample\\TupleExample.csproj",
+      "projectUniqueName": "H:\\GitHub\\CsharpPractice\\C-Sharp\\TupleExample\\TupleExample.csproj",
       "projectName": "TupleExample",
-      "projectPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\TupleExample\\TupleExample.csproj",
+      "projectPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\TupleExample\\TupleExample.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\RAJIB__Books\\Dot Net\\Dev Skill\\C-Sharp\\TupleExample\\obj\\",
+      "outputPath": "H:\\GitHub\\CsharpPractice\\C-Sharp\\TupleExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
