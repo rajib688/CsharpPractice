@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\bin\Debug\net6.0\PartialClassExample.exe
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\bin\Debug\net6.0\PartialClassExample.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\bin\Debug\net6.0\PartialClassExample.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\bin\Debug\net6.0\PartialClassExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\bin\Debug\net6.0\PartialClassExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\obj\Debug\net6.0\PartialClassExample.csproj.AssemblyReference.cache
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\obj\Debug\net6.0\PartialClassExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\obj\Debug\net6.0\PartialClassExample.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\obj\Debug\net6.0\PartialClassExample.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\obj\Debug\net6.0\PartialClassExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\obj\Debug\net6.0\PartialClassExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\obj\Debug\net6.0\refint\PartialClassExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\obj\Debug\net6.0\PartialClassExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\obj\Debug\net6.0\PartialClassExample.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\PartialClassExample\obj\Debug\net6.0\ref\PartialClassExample.dll

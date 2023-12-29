@@ -26,5 +26,9 @@ namespace InterfaceExample
         {
             Console.WriteLine("FifthGenEngine stopping");
         }
+        public sealed override void IncreaseSpeed(int t)
+        {
+
+        }
     }
 }

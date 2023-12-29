@@ -28,5 +28,10 @@ namespace InterfaceExample
         //{
         //    return _speed;
         //}
+        public virtual void IncreaseSpeed(int t)
+        {
+
+        }
+
     }
 }
