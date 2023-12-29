@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\AgainPractice\\OOP\\OOP.csproj",
+      "projectUniqueName": "H:\\GitHub\\CsharpPractice\\AgainPractice\\OOP\\OOP.csproj",
       "projectName": "OOP",
-      "projectPath": "F:\\RAJIB__Books\\Dot Net\\AgainPractice\\OOP\\OOP.csproj",
+      "projectPath": "H:\\GitHub\\CsharpPractice\\AgainPractice\\OOP\\OOP.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\RAJIB__Books\\Dot Net\\AgainPractice\\OOP\\obj\\",
+      "outputPath": "H:\\GitHub\\CsharpPractice\\AgainPractice\\OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

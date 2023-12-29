@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\RAJIB__Books\\Dot Net\\AgainPractice\\InputOutput\\InputOutput.csproj",
+      "projectUniqueName": "H:\\GitHub\\CsharpPractice\\AgainPractice\\InputOutput\\InputOutput.csproj",
       "projectName": "InputOutput",
-      "projectPath": "F:\\RAJIB__Books\\Dot Net\\AgainPractice\\InputOutput\\InputOutput.csproj",
+      "projectPath": "H:\\GitHub\\CsharpPractice\\AgainPractice\\InputOutput\\InputOutput.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "F:\\RAJIB__Books\\Dot Net\\AgainPractice\\InputOutput\\obj\\",
+      "outputPath": "H:\\GitHub\\CsharpPractice\\AgainPractice\\InputOutput\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
