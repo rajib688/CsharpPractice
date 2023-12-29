@@ -1,0 +1,15 @@
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\bin\Debug\net6.0\OOP.exe
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\bin\Debug\net6.0\OOP.deps.json
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\bin\Debug\net6.0\OOP.dll
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\bin\Debug\net6.0\OOP.pdb
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\OOP.dll
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\refint\OOP.dll
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\OOP.pdb
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\ref\OOP.dll
