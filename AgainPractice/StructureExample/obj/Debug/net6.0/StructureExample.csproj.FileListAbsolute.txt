@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\bin\Debug\net6.0\StructureExample.exe
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\bin\Debug\net6.0\StructureExample.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\bin\Debug\net6.0\StructureExample.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\bin\Debug\net6.0\StructureExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\bin\Debug\net6.0\StructureExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\obj\Debug\net6.0\StructureExample.csproj.AssemblyReference.cache
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\obj\Debug\net6.0\StructureExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\obj\Debug\net6.0\StructureExample.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\obj\Debug\net6.0\StructureExample.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\obj\Debug\net6.0\StructureExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\obj\Debug\net6.0\StructureExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\obj\Debug\net6.0\refint\StructureExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\obj\Debug\net6.0\StructureExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\obj\Debug\net6.0\StructureExample.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\StructureExample\obj\Debug\net6.0\ref\StructureExample.dll
