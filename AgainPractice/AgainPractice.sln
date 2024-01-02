@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialClassExample", "Part
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructureExample", "StructureExample\StructureExample.csproj", "{F6CCBFFF-0E8F-4124-974B-4EB7EDC96C7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumExample", "EnumExample\EnumExample.csproj", "{66B70F74-622E-4B0D-90C4-9EC2A26C7D8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumExample", "EnumExample\EnumExample.csproj", "{66B70F74-622E-4B0D-90C4-9EC2A26C7D8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeExample", "DateTimeExample\DateTimeExample.csproj", "{BF850081-F54F-4C52-AFE0-2E810A6CB332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBuilderExample", "StringBuilderExample\StringBuilderExample.csproj", "{D534AC3F-39D8-4F68-80D9-2E083E1E27D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{66B70F74-622E-4B0D-90C4-9EC2A26C7D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66B70F74-622E-4B0D-90C4-9EC2A26C7D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66B70F74-622E-4B0D-90C4-9EC2A26C7D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF850081-F54F-4C52-AFE0-2E810A6CB332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF850081-F54F-4C52-AFE0-2E810A6CB332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF850081-F54F-4C52-AFE0-2E810A6CB332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF850081-F54F-4C52-AFE0-2E810A6CB332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D534AC3F-39D8-4F68-80D9-2E083E1E27D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D534AC3F-39D8-4F68-80D9-2E083E1E27D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D534AC3F-39D8-4F68-80D9-2E083E1E27D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D534AC3F-39D8-4F68-80D9-2E083E1E27D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.exe
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\bin\Debug\net6.0\StringBuilderExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.csproj.AssemblyReference.cache
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\obj\Debug\net6.0\refint\StringBuilderExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\obj\Debug\net6.0\StringBuilderExample.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\StringBuilderExample\obj\Debug\net6.0\ref\StringBuilderExample.dll

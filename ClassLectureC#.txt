@@ -4,7 +4,7 @@ Class-3: Input, Char, If,
 Class-4: Operation, Binary, For, While, do-While, Foreach, TextOperator.
 Class-5: Class, Object, Method OverLoading, Method Constructor, Property & AutoProperty, Interface, 
 Class-6: static, Abstract, virtual, Method override, Interface, new, sealed, Partial Class, 
-Class-7: Stracture,
+Class-7: Stracture, Enum, Datetime, StringBuilder, 
 
 
 Class, Object: Class akta design part r design ar protek bostuto holo ak akta Object.
@@ -14,6 +14,10 @@ sealed: (override korte deya jabe na)sealed class k Inheritance kora jaw na.
 virtual: (override korte deya) The virtual keyword is used to modify a method, property, indexer, or event declaration and allow for it to be overridden in a derived class.
 PartialClass: A partial class is a class whose definition is present in 2 or more files. Each source file contains a section of the class, and all parts are combined when the application is compiled.
 Stracture: Class, veriable r Stracture same but internal Defferent, Stracture a by defauil empty Constructor thake tai parameter Constructor dite hbe, class reference type r stracture value type, stracture Inheritance kora jaw na, 
+Enum: Enum Class Veriable declaration kora.
+Datetime: Build stracture, 
+StringBuilder: StringBuilder is a mutable series of characters that can be extended to store more characters if required. Unlike with strings, modifying a StringBuilder instance does not result in the creation of a new instance in memory.
+
 
 MethodName Always Verb
 ClassName, VeriableName Always Noun
