@@ -5,18 +5,39 @@ Class-4: Operation, Binary, For, While, do-While, Foreach, TextOperator.
 Class-5: Class, Object, Method OverLoading, Method Constructor, Property & AutoProperty, Interface, 
 Class-6: static, Abstract, virtual, Method override, Interface, new, sealed, Partial Class, 
 Class-7: Stracture, Enum, Datetime, StringBuilder, 
-
+Class-8: ParameterModifiers, TupleExample, NullableType, AnnonymousTypes, 
 
 Class, Object: Class akta design part r design ar protek bostuto holo ak akta Object.
 static: static class ba static veriable Class ar sathe relation but instand ar sathe na use case common field.
+
+Abstract: The abstract keyword is used for classes and methods: Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
+
+Abstract method: can only be used in an abstract class, and it does not have a body.
+
 new: Hiding was Intended,
+
 sealed: (override korte deya jabe na)sealed class k Inheritance kora jaw na.
+
 virtual: (override korte deya) The virtual keyword is used to modify a method, property, indexer, or event declaration and allow for it to be overridden in a derived class.
+
 PartialClass: A partial class is a class whose definition is present in 2 or more files. Each source file contains a section of the class, and all parts are combined when the application is compiled.
+
 Stracture: Class, veriable r Stracture same but internal Defferent, Stracture a by defauil empty Constructor thake tai parameter Constructor dite hbe, class reference type r stracture value type, stracture Inheritance kora jaw na, 
+
 Enum: Enum Class Veriable declaration kora.
+
 Datetime: Build stracture, 
+
 StringBuilder: StringBuilder is a mutable series of characters that can be extended to store more characters if required. Unlike with strings, modifying a StringBuilder instance does not result in the creation of a new instance in memory.
+
+ParameterModifiers: Parameter modifiers enable you to pass arguments by reference.
+ass by value means passing a copy of the variable to the method. Pass by reference means passing access to the variable to the method.
+
+TupleExample: Tuples help us access and manipulate data sets easily for different operations without having to define a new class with custom properties.
+
+NullableType: Value null set kora projon hole 
+
+AnnonymousTypes: ata kono type nai class hoy na ata always object. AnnonymousTypes ata object data type. ata run korar jonny object ar poripote dynamic run time excute hoy, compiler time kono error check kore na run time check kore.  
 
 
 MethodName Always Verb

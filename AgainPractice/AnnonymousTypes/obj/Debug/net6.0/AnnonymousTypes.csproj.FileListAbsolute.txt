@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\bin\Debug\net6.0\AnnonymousTypes.exe
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\bin\Debug\net6.0\AnnonymousTypes.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\bin\Debug\net6.0\AnnonymousTypes.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\bin\Debug\net6.0\AnnonymousTypes.dll
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\bin\Debug\net6.0\AnnonymousTypes.pdb
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\obj\Debug\net6.0\AnnonymousTypes.csproj.AssemblyReference.cache
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\obj\Debug\net6.0\AnnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\obj\Debug\net6.0\AnnonymousTypes.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\obj\Debug\net6.0\AnnonymousTypes.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\obj\Debug\net6.0\AnnonymousTypes.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\obj\Debug\net6.0\AnnonymousTypes.dll
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\obj\Debug\net6.0\refint\AnnonymousTypes.dll
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\obj\Debug\net6.0\AnnonymousTypes.pdb
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\obj\Debug\net6.0\AnnonymousTypes.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\AnnonymousTypes\obj\Debug\net6.0\ref\AnnonymousTypes.dll

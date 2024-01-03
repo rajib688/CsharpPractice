@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\bin\Debug\net6.0\TupleExample.exe
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\bin\Debug\net6.0\TupleExample.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\bin\Debug\net6.0\TupleExample.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\bin\Debug\net6.0\TupleExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\bin\Debug\net6.0\TupleExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\obj\Debug\net6.0\TupleExample.csproj.AssemblyReference.cache
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\obj\Debug\net6.0\TupleExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\obj\Debug\net6.0\TupleExample.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\obj\Debug\net6.0\TupleExample.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\obj\Debug\net6.0\TupleExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\obj\Debug\net6.0\TupleExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\obj\Debug\net6.0\refint\TupleExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\obj\Debug\net6.0\TupleExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\obj\Debug\net6.0\TupleExample.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\TupleExample\obj\Debug\net6.0\ref\TupleExample.dll
