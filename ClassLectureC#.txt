@@ -1,12 +1,12 @@
 Class-1: Introdution About Class Role.
-Class-2: About Git, Array,
-Class-3: Input, Char, If, 
+Class-2: About Git, Array.
+Class-3: Input, Char, If.
 Class-4: Operation, Binary, For, While, do-While, Foreach, TextOperator.
-Class-5: Class, Object, Method OverLoading, Method Constructor, Property & AutoProperty, Interface, 
-Class-6: static, Abstract, virtual, Method override, Interface, new, sealed, Partial Class, 
-Class-7: Stracture, Enum, Datetime, StringBuilder, 
-Class-8: ParameterModifiers, TupleExample, NullableType, AnnonymousTypes, 
-Class-9: 
+Class-5: Class, Object, Method OverLoading, Method Constructor, Property & AutoProperty, Interface.
+Class-6: static, Abstract, virtual, Method override, Interface, new, sealed, Partial Class.
+Class-7: Stracture, Enum, Datetime, StringBuilder.
+Class-8: ParameterModifiers, TupleExample, NullableType, AnnonymousTypes. 
+Class-9: Generics, 
 
 
 
