@@ -12,6 +12,7 @@ Point<double, int> point2 = new Point<double, int>();
 point.x = 1;
 point.y = 2.5;
 
-SuperPoint<int, string> superPoint = new SuperPoint<int, string>();
+SuperPoint<int, string, double> superPoint = new SuperPoint<int, string, double>();
 superPoint.x = 5;
 superPoint.y = "Rajib Rari";
+superPoint.Z = 10.5;
