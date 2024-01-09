@@ -41,8 +41,9 @@ TupleExample: Tuples help us access and manipulate data sets easily for differen
 NullableType: Value null set kora projon hole 
 
 AnnonymousTypes: ata kono type nai class hoy na ata always object. AnnonymousTypes ata object data type. ata run korar jonny object ar poripote dynamic run time excute hoy, compiler time kono error check kore na run time check kore.  
-Generics: Data Structure code besi use hoy, 2 person need a int, double than use Generics, 
 
+Generics: Data Structure code besi use hoy, 2 person need a int, double than use Generics, Constrand ba restriction add Class, class ar somoa new deya jaw but struct ar somoa new deya jabe na, Generics Class ar modde Generics paya jabe, Mothod modde Generics method e paya jabe.
+System.Collections.Generic akhane build Generic banano ase.
 
 MethodName Always Verb
 ClassName, VeriableName Always Noun
