@@ -13,3 +13,18 @@ F:\RAJIB__Books\Dot Net\AgainPractice\StaticExample\obj\Debug\net6.0\refint\Stat
 F:\RAJIB__Books\Dot Net\AgainPractice\StaticExample\obj\Debug\net6.0\StaticExample.pdb
 F:\RAJIB__Books\Dot Net\AgainPractice\StaticExample\obj\Debug\net6.0\StaticExample.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\AgainPractice\StaticExample\obj\Debug\net6.0\ref\StaticExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\bin\Debug\net6.0\StaticExample.exe
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\bin\Debug\net6.0\StaticExample.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\bin\Debug\net6.0\StaticExample.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\bin\Debug\net6.0\StaticExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\bin\Debug\net6.0\StaticExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\obj\Debug\net6.0\StaticExample.csproj.AssemblyReference.cache
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\obj\Debug\net6.0\StaticExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\obj\Debug\net6.0\StaticExample.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\obj\Debug\net6.0\StaticExample.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\obj\Debug\net6.0\StaticExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\obj\Debug\net6.0\StaticExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\obj\Debug\net6.0\refint\StaticExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\obj\Debug\net6.0\StaticExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\obj\Debug\net6.0\StaticExample.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\StaticExample\obj\Debug\net6.0\ref\StaticExample.dll

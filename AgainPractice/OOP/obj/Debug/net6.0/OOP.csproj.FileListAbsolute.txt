@@ -13,3 +13,18 @@ F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\refint\OOP.dll
 F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\OOP.pdb
 F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\AgainPractice\OOP\obj\Debug\net6.0\ref\OOP.dll
+H:\GitHub\CsharpPractice\AgainPractice\OOP\bin\Debug\net6.0\OOP.exe
+H:\GitHub\CsharpPractice\AgainPractice\OOP\bin\Debug\net6.0\OOP.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\OOP\bin\Debug\net6.0\OOP.dll
+H:\GitHub\CsharpPractice\AgainPractice\OOP\bin\Debug\net6.0\OOP.pdb
+H:\GitHub\CsharpPractice\AgainPractice\OOP\obj\Debug\net6.0\OOP.csproj.AssemblyReference.cache
+H:\GitHub\CsharpPractice\AgainPractice\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\OOP\obj\Debug\net6.0\OOP.dll
+H:\GitHub\CsharpPractice\AgainPractice\OOP\obj\Debug\net6.0\refint\OOP.dll
+H:\GitHub\CsharpPractice\AgainPractice\OOP\obj\Debug\net6.0\OOP.pdb
+H:\GitHub\CsharpPractice\AgainPractice\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\OOP\obj\Debug\net6.0\ref\OOP.dll

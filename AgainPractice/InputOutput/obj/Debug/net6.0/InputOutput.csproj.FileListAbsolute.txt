@@ -13,3 +13,18 @@ F:\RAJIB__Books\Dot Net\AgainPractice\InputOutput\obj\Debug\net6.0\refint\InputO
 F:\RAJIB__Books\Dot Net\AgainPractice\InputOutput\obj\Debug\net6.0\InputOutput.pdb
 F:\RAJIB__Books\Dot Net\AgainPractice\InputOutput\obj\Debug\net6.0\InputOutput.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\AgainPractice\InputOutput\obj\Debug\net6.0\ref\InputOutput.dll
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\bin\Debug\net6.0\InputOutput.exe
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\bin\Debug\net6.0\InputOutput.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\bin\Debug\net6.0\InputOutput.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\bin\Debug\net6.0\InputOutput.dll
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\bin\Debug\net6.0\InputOutput.pdb
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\obj\Debug\net6.0\InputOutput.csproj.AssemblyReference.cache
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\obj\Debug\net6.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\obj\Debug\net6.0\InputOutput.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\obj\Debug\net6.0\InputOutput.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\obj\Debug\net6.0\InputOutput.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\obj\Debug\net6.0\InputOutput.dll
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\obj\Debug\net6.0\refint\InputOutput.dll
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\obj\Debug\net6.0\InputOutput.pdb
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\obj\Debug\net6.0\InputOutput.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\InputOutput\obj\Debug\net6.0\ref\InputOutput.dll

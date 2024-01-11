@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableType", "NullableTyp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnnonymousTypes", "AnnonymousTypes\AnnonymousTypes.csproj", "{5A19FD7B-BF80-42FC-927C-CFD3E6996981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsExample", "GenericsExample\GenericsExample.csproj", "{705B8CD7-6336-4EC6-AE1F-08138A4BB769}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsExample", "GenericsExample\GenericsExample.csproj", "{705B8CD7-6336-4EC6-AE1F-08138A4BB769}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportantInterface", "ImportantInterface\ImportantInterface.csproj", "{2FEA8AF4-8531-43FD-8E1A-BD9A02F5AFF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{705B8CD7-6336-4EC6-AE1F-08138A4BB769}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{705B8CD7-6336-4EC6-AE1F-08138A4BB769}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{705B8CD7-6336-4EC6-AE1F-08138A4BB769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FEA8AF4-8531-43FD-8E1A-BD9A02F5AFF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEA8AF4-8531-43FD-8E1A-BD9A02F5AFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEA8AF4-8531-43FD-8E1A-BD9A02F5AFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEA8AF4-8531-43FD-8E1A-BD9A02F5AFF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

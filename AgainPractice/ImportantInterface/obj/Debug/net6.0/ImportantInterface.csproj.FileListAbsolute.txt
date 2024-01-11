@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\bin\Debug\net6.0\ImportantInterface.exe
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\bin\Debug\net6.0\ImportantInterface.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\bin\Debug\net6.0\ImportantInterface.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\bin\Debug\net6.0\ImportantInterface.dll
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\bin\Debug\net6.0\ImportantInterface.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\obj\Debug\net6.0\ImportantInterface.csproj.AssemblyReference.cache
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\obj\Debug\net6.0\ImportantInterface.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\obj\Debug\net6.0\ImportantInterface.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\obj\Debug\net6.0\ImportantInterface.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\obj\Debug\net6.0\ImportantInterface.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\obj\Debug\net6.0\ImportantInterface.dll
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\obj\Debug\net6.0\refint\ImportantInterface.dll
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\obj\Debug\net6.0\ImportantInterface.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\obj\Debug\net6.0\ImportantInterface.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\ImportantInterface\obj\Debug\net6.0\ref\ImportantInterface.dll

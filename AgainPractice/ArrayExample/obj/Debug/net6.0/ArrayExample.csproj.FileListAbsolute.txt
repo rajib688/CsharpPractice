@@ -13,3 +13,18 @@ F:\RAJIB__Books\Dot Net\AgainPractice\ArrayExample\obj\Debug\net6.0\refint\Array
 F:\RAJIB__Books\Dot Net\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.pdb
 F:\RAJIB__Books\Dot Net\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.genruntimeconfig.cache
 F:\RAJIB__Books\Dot Net\AgainPractice\ArrayExample\obj\Debug\net6.0\ref\ArrayExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\bin\Debug\net6.0\ArrayExample.exe
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\bin\Debug\net6.0\ArrayExample.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\bin\Debug\net6.0\ArrayExample.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\bin\Debug\net6.0\ArrayExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\bin\Debug\net6.0\ArrayExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.csproj.AssemblyReference.cache
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\refint\ArrayExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ref\ArrayExample.dll
