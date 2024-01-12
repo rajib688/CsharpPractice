@@ -8,6 +8,7 @@ Class-7: Stracture, Enum, Datetime, StringBuilder.
 Class-8: ParameterModifiers, TupleExample, NullableType, AnnonymousTypes. 
 Class-9: Generics, 
 Class-10: IEnumerable, IEnumerator, ICollection
+Class-11: IDisposable, ICloneable, 
 
 Class, Object: Class akta design part r design ar protek bostuto holo ak akta Object.
 static: static class ba static veriable Class ar sathe relation but instand ar sathe na use case common field.
@@ -44,7 +45,9 @@ AnnonymousTypes: ata kono type nai class hoy na ata always object. AnnonymousTyp
 Generics: Data Structure code besi use hoy, 2 person need a int, double than use Generics, Constrand ba restriction add Class, class ar somoa new deya jaw but struct ar somoa new deya jabe na, Generics Class ar modde Generics paya jabe, Mothod modde Generics method e paya jabe.
 System.Collections.Generic akhane build Generic banano ase.
 IEnumerable: ICollection base Interface
-ICollection: 
+ICollection: collection data stracture 
+IDisposable: kono kisu distroy Bari class user interface niye kaj kore, Network, Database, file System.
+ICloneable: object clone kora ar mul kaj, akta object ar value theke onno akta object value clone kora
 
 MethodName Always Verb
 ClassName, VeriableName Always Noun
