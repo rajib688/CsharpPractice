@@ -8,7 +8,9 @@ Class-7: Stracture, Enum, Datetime, StringBuilder.
 Class-8: ParameterModifiers, TupleExample, NullableType, AnnonymousTypes. 
 Class-9: Generics, 
 Class-10: IEnumerable, IEnumerator, ICollection
-Class-11: IDisposable, ICloneable, 
+Class-11: IDisposable, ICloneable, Database Relative
+Class-12: Database Relative, ADO, 
+
 
 Class, Object: Class akta design part r design ar protek bostuto holo ak akta Object.
 static: static class ba static veriable Class ar sathe relation but instand ar sathe na use case common field.
