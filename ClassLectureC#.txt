@@ -10,6 +10,8 @@ Class-9: Generics,
 Class-10: IEnumerable, IEnumerator, ICollection
 Class-11: IDisposable, ICloneable, Database Relative
 Class-12: Database Relative, ADO, 
+Class-14: EntityFramework, Migration, 
+Class-15: Migration, Fluent API,  
 
 
 Class, Object: Class akta design part r design ar protek bostuto holo ak akta Object.
@@ -50,6 +52,8 @@ IEnumerable: ICollection base Interface
 ICollection: collection data stracture 
 IDisposable: kono kisu distroy Bari class user interface niye kaj kore, Network, Database, file System.
 ICloneable: object clone kora ar mul kaj, akta object ar value theke onno akta object value clone kora
+Fluent API: akhane relation dekhi dea r foreinkey.
+
 
 MethodName Always Verb
 ClassName, VeriableName Always Noun

@@ -31,7 +31,7 @@ namespace AdoDotNetExample
 
         public void WriteOperation(string Sql, Dictionary<string, object> parameters)
         {
-            SqlCommand cmd = CreateSqlCommand(Sql, parameters);
+            using SqlCommand cmd = CreateSqlCommand(Sql, parameters);
             cmd.ExecuteNonQuery();
         }
 
@@ -52,10 +52,12 @@ namespace AdoDotNetExample
                     command.ExecuteNonQuery();
                 }
                 Transaction.Commit();
+                Console.WriteLine("Transaction committed successfully");
             }
             catch (Exception ex)
             {
                 Transaction.Rollback();
+                Console.WriteLine($"Transaction rolled back due to an error: {ex.Message}");
             }
 
         }

@@ -18,11 +18,11 @@ H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\bin\Debug\net6.0\ArrayExampl
 H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\bin\Debug\net6.0\ArrayExample.runtimeconfig.json
 H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\bin\Debug\net6.0\ArrayExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\bin\Debug\net6.0\ArrayExample.pdb
-H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.csproj.AssemblyReference.cache
 H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.GeneratedMSBuildEditorConfig.editorconfig
 H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.AssemblyInfoInputs.cache
 H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.AssemblyInfo.cs
 H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.sourcelink.json
 H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\refint\ArrayExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\ArrayExample\obj\Debug\net6.0\ArrayExample.pdb

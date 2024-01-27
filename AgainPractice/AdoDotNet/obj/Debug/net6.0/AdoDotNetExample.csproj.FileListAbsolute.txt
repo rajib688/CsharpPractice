@@ -14,6 +14,7 @@ H:\GitHub\CsharpPractice\AgainPractice\AdoDotNet\obj\Debug\net6.0\AdoDotNetExamp
 H:\GitHub\CsharpPractice\AgainPractice\AdoDotNet\obj\Debug\net6.0\AdoDotNetExample.AssemblyInfoInputs.cache
 H:\GitHub\CsharpPractice\AgainPractice\AdoDotNet\obj\Debug\net6.0\AdoDotNetExample.AssemblyInfo.cs
 H:\GitHub\CsharpPractice\AgainPractice\AdoDotNet\obj\Debug\net6.0\AdoDotNetExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\AdoDotNet\obj\Debug\net6.0\AdoDotNetExample.sourcelink.json
 H:\GitHub\CsharpPractice\AgainPractice\AdoDotNet\obj\Debug\net6.0\AdoDotNetExample.csproj.CopyComplete
 H:\GitHub\CsharpPractice\AgainPractice\AdoDotNet\obj\Debug\net6.0\AdoDotNetExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\AdoDotNet\obj\Debug\net6.0\refint\AdoDotNetExample.dll

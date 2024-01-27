@@ -3,7 +3,7 @@ using AdoDotNetExample;
 
 Console.WriteLine("Hello, World!");
 
-string _connectionString = @" Server=DESKTOP-K32T5PF\SQLEXPRESS; Database=AgainPractice; User Id =Rajib; Password=12345; ";
+string _connectionString = @"Server=DESKTOP-K32T5PF\SQLEXPRESS; Database=AgainPractice; User Id =Rajib; Password=12345; ";
 
 DataHelper dataHelper = new DataHelper(_connectionString);
 
@@ -11,6 +11,38 @@ CommonDatahelper commonDatahelper = new CommonDatahelper(_connectionString);
 
 //dataHelper.InsertData();
 //Console.WriteLine("Insert Done");
+
+while (true)
+{
+    Console.WriteLine("Enter your Name : ");
+    string Name = Console.ReadLine();
+    Console.WriteLine("Enter your Cgpa : ");
+    decimal Cgpa = decimal.Parse(Console.ReadLine());
+    DateTime DateOfBirth = DateTime.Now;
+    Guid StudentId = Guid.NewGuid();
+    Console.WriteLine("Enter your IsActive : ");
+    bool IsActive = bool.Parse(Console.ReadLine());
+
+
+    List<Dictionary<string, object>> parameters = new List<Dictionary<string, object>>();
+
+    parameters.Add(new Dictionary<string, object> { { "Name", Name } });
+    parameters.Add(new Dictionary<string, object> { { "Cgpa", Cgpa } });
+    parameters.Add(new Dictionary<string, object> { { "DateOfBirth", DateOfBirth } });
+    parameters.Add(new Dictionary<string, object> { { "StudentId", StudentId } });
+    parameters.Add(new Dictionary<string, object> { { "IsActive", IsActive} });
+
+
+   // List<string> InsertData = string.Format(@"Insert into Student(Name,Cgpa,DateofBirth,StudentId, IsActive) values(@Name, @Cgpa, @DateOfBirth, @StudentId, @IsActive)";
+
+   //commonDatahelper.MultiWriteOperation(InsertData, parameters);
+
+}
+
+
+
+
+/*
 Console.WriteLine("Enter your Name : ");
 string Name = Console.ReadLine();
 Console.WriteLine("Enter your Cgpa : ");
@@ -54,6 +86,6 @@ foreach (Dictionary<string, object> item in data)
     Console.WriteLine();
 }
 
-
+*/
 
 

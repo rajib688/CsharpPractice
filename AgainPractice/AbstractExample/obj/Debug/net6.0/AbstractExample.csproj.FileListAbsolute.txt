@@ -3,11 +3,11 @@ H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\bin\Debug\net6.0\Abstract
 H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\bin\Debug\net6.0\AbstractExample.runtimeconfig.json
 H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\bin\Debug\net6.0\AbstractExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\bin\Debug\net6.0\AbstractExample.pdb
-H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\obj\Debug\net6.0\AbstractExample.csproj.AssemblyReference.cache
 H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\obj\Debug\net6.0\AbstractExample.GeneratedMSBuildEditorConfig.editorconfig
 H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\obj\Debug\net6.0\AbstractExample.AssemblyInfoInputs.cache
 H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\obj\Debug\net6.0\AbstractExample.AssemblyInfo.cs
 H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\obj\Debug\net6.0\AbstractExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\obj\Debug\net6.0\AbstractExample.sourcelink.json
 H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\obj\Debug\net6.0\AbstractExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\obj\Debug\net6.0\refint\AbstractExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\AbstractExample\obj\Debug\net6.0\AbstractExample.pdb

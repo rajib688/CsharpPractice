@@ -3,11 +3,11 @@ H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\bin\Debug\net6.0\DateTime
 H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\bin\Debug\net6.0\DateTimeExample.runtimeconfig.json
 H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\bin\Debug\net6.0\DateTimeExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\bin\Debug\net6.0\DateTimeExample.pdb
-H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\obj\Debug\net6.0\DateTimeExample.csproj.AssemblyReference.cache
 H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\obj\Debug\net6.0\DateTimeExample.GeneratedMSBuildEditorConfig.editorconfig
 H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\obj\Debug\net6.0\DateTimeExample.AssemblyInfoInputs.cache
 H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\obj\Debug\net6.0\DateTimeExample.AssemblyInfo.cs
 H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\obj\Debug\net6.0\DateTimeExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\obj\Debug\net6.0\DateTimeExample.sourcelink.json
 H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\obj\Debug\net6.0\DateTimeExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\obj\Debug\net6.0\refint\DateTimeExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\DateTimeExample\obj\Debug\net6.0\DateTimeExample.pdb

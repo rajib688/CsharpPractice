@@ -3,11 +3,11 @@ H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\bin\Debug\net6.0\Generics
 H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\bin\Debug\net6.0\GenericsExample.runtimeconfig.json
 H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\bin\Debug\net6.0\GenericsExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\bin\Debug\net6.0\GenericsExample.pdb
-H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\obj\Debug\net6.0\GenericsExample.csproj.AssemblyReference.cache
 H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\obj\Debug\net6.0\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
 H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\obj\Debug\net6.0\GenericsExample.AssemblyInfoInputs.cache
 H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\obj\Debug\net6.0\GenericsExample.AssemblyInfo.cs
 H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\obj\Debug\net6.0\GenericsExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\obj\Debug\net6.0\GenericsExample.sourcelink.json
 H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\obj\Debug\net6.0\GenericsExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\obj\Debug\net6.0\refint\GenericsExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\GenericsExample\obj\Debug\net6.0\GenericsExample.pdb

@@ -3,11 +3,11 @@ H:\GitHub\CsharpPractice\AgainPractice\NullableType\bin\Debug\net6.0\NullableTyp
 H:\GitHub\CsharpPractice\AgainPractice\NullableType\bin\Debug\net6.0\NullableType.runtimeconfig.json
 H:\GitHub\CsharpPractice\AgainPractice\NullableType\bin\Debug\net6.0\NullableType.dll
 H:\GitHub\CsharpPractice\AgainPractice\NullableType\bin\Debug\net6.0\NullableType.pdb
-H:\GitHub\CsharpPractice\AgainPractice\NullableType\obj\Debug\net6.0\NullableType.csproj.AssemblyReference.cache
 H:\GitHub\CsharpPractice\AgainPractice\NullableType\obj\Debug\net6.0\NullableType.GeneratedMSBuildEditorConfig.editorconfig
 H:\GitHub\CsharpPractice\AgainPractice\NullableType\obj\Debug\net6.0\NullableType.AssemblyInfoInputs.cache
 H:\GitHub\CsharpPractice\AgainPractice\NullableType\obj\Debug\net6.0\NullableType.AssemblyInfo.cs
 H:\GitHub\CsharpPractice\AgainPractice\NullableType\obj\Debug\net6.0\NullableType.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\NullableType\obj\Debug\net6.0\NullableType.sourcelink.json
 H:\GitHub\CsharpPractice\AgainPractice\NullableType\obj\Debug\net6.0\NullableType.dll
 H:\GitHub\CsharpPractice\AgainPractice\NullableType\obj\Debug\net6.0\refint\NullableType.dll
 H:\GitHub\CsharpPractice\AgainPractice\NullableType\obj\Debug\net6.0\NullableType.pdb

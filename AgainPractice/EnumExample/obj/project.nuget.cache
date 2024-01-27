@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "U0AZLhIs+5/pWgwsTP4c0ucX0MjEu4hGYtkYKcqfxbb28/r9WqVzSZhlrsxuLaPLJmvkw6teV5OGysg8xoiCvQ==",
+  "dgSpecHash": "IWhWpBqu5QXWZhQcR91dEMmGqOm3PuAW0LryV1JPulKqUkidaYiHKP04/Wl6YD8Umhi1yDBJqK/ef8pz1z9UhA==",
   "success": true,
   "projectFilePath": "H:\\GitHub\\CsharpPractice\\AgainPractice\\EnumExample\\EnumExample.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

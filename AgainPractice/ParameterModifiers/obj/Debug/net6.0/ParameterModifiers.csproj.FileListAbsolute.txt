@@ -3,11 +3,11 @@ H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\bin\Debug\net6.0\Param
 H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.runtimeconfig.json
 H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.dll
 H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\bin\Debug\net6.0\ParameterModifiers.pdb
-H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.csproj.AssemblyReference.cache
 H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.GeneratedMSBuildEditorConfig.editorconfig
 H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.AssemblyInfoInputs.cache
 H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.AssemblyInfo.cs
 H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.sourcelink.json
 H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.dll
 H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\obj\Debug\net6.0\refint\ParameterModifiers.dll
 H:\GitHub\CsharpPractice\AgainPractice\ParameterModifiers\obj\Debug\net6.0\ParameterModifiers.pdb

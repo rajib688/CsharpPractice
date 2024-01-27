@@ -39,7 +39,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsExample", "Generics
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImportantInterface", "ImportantInterface\ImportantInterface.csproj", "{2FEA8AF4-8531-43FD-8E1A-BD9A02F5AFF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoDotNetExample", "AdoDotNet\AdoDotNetExample.csproj", "{9ED45DC9-D979-439C-8BBC-9BC8E6B1AB85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoDotNetExample", "AdoDotNet\AdoDotNetExample.csproj", "{9ED45DC9-D979-439C-8BBC-9BC8E6B1AB85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityFrameworkExample", "EntityFrameworkExample\EntityFrameworkExample.csproj", "{9BE851D4-062F-4E06-83AB-72DEE390DA7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{9ED45DC9-D979-439C-8BBC-9BC8E6B1AB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ED45DC9-D979-439C-8BBC-9BC8E6B1AB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ED45DC9-D979-439C-8BBC-9BC8E6B1AB85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE851D4-062F-4E06-83AB-72DEE390DA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE851D4-062F-4E06-83AB-72DEE390DA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE851D4-062F-4E06-83AB-72DEE390DA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE851D4-062F-4E06-83AB-72DEE390DA7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

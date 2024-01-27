@@ -3,11 +3,11 @@ H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\bin\Debug\net6.0\Interfa
 H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\bin\Debug\net6.0\InterfaceExample.runtimeconfig.json
 H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\bin\Debug\net6.0\InterfaceExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\bin\Debug\net6.0\InterfaceExample.pdb
-H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\obj\Debug\net6.0\InterfaceExample.csproj.AssemblyReference.cache
 H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\obj\Debug\net6.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
 H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\obj\Debug\net6.0\InterfaceExample.AssemblyInfoInputs.cache
 H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\obj\Debug\net6.0\InterfaceExample.AssemblyInfo.cs
 H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\obj\Debug\net6.0\InterfaceExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\obj\Debug\net6.0\InterfaceExample.sourcelink.json
 H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\obj\Debug\net6.0\InterfaceExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\obj\Debug\net6.0\refint\InterfaceExample.dll
 H:\GitHub\CsharpPractice\AgainPractice\InterfaceExample\obj\Debug\net6.0\InterfaceExample.pdb
