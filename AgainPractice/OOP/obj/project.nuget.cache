@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NdSd4yo35yFMQVH4vBu4mhawwGrYezVC0UpSQkQTGjQwJBp07m4T9ODnJiJh0mmKCD90TaP5VrdhgKoygT0H0A==",
+  "dgSpecHash": "ySokhSkt4fsJ6LtSK3EDWOHHx7bMhRM6uzljKZ2DRtMkQwwjwA2ZG1x6VBOR8OnytPlqaFQ4wOdNucd8evcHLg==",
   "success": true,
   "projectFilePath": "H:\\GitHub\\CsharpPractice\\AgainPractice\\OOP\\OOP.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

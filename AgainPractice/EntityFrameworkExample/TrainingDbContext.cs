@@ -28,6 +28,7 @@ namespace EntityFrameworkExample
             {
                 optionsBuilder.UseSqlServer(_connectionString, m => m.MigrationsAssembly(_assemblyName));
             }
+
             base.OnConfiguring(optionsBuilder);
         }
 

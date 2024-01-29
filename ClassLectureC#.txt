@@ -12,7 +12,7 @@ Class-11: IDisposable, ICloneable, Database Relative
 Class-12: Database Relative, ADO, 
 Class-14: EntityFramework, Migration, 
 Class-15: Migration, Fluent API,  
-
+Class-16:
 
 Class, Object: Class akta design part r design ar protek bostuto holo ak akta Object.
 static: static class ba static veriable Class ar sathe relation but instand ar sathe na use case common field.
@@ -53,6 +53,8 @@ ICollection: collection data stracture
 IDisposable: kono kisu distroy Bari class user interface niye kaj kore, Network, Database, file System.
 ICloneable: object clone kora ar mul kaj, akta object ar value theke onno akta object value clone kora
 Fluent API: akhane relation dekhi dea r foreinkey.
+Static Class: instance class na toyri kore building class use kore method, veriable use kori instance class 2 ta one is File,Onther is ..,  
+Stream object: connection of file 
 
 
 MethodName Always Verb

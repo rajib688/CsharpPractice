@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9m8NEVlrXZYJQuMu4b51CjNEmZATN/OmWLtX/zFxOXqNuHt4mo7NaqFzzZd2PT1r8sDZic3EEy8+GW5EL0FLgA==",
+  "dgSpecHash": "bH0sEbE/bPowswrm614rC96PtxiBcP21mKhp3BF2UkZyfyEVntK3eAGYW6NfB981CyKT25yRGw/FU4TM478nVA==",
   "success": true,
   "projectFilePath": "H:\\GitHub\\CsharpPractice\\AgainPractice\\PartialClassExample\\PartialClassExample.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\bin\Debug\net6.0\FileOperation.exe
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\bin\Debug\net6.0\FileOperation.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\bin\Debug\net6.0\FileOperation.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\bin\Debug\net6.0\FileOperation.dll
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\bin\Debug\net6.0\FileOperation.pdb
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\obj\Debug\net6.0\FileOperation.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\obj\Debug\net6.0\FileOperation.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\obj\Debug\net6.0\FileOperation.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\obj\Debug\net6.0\FileOperation.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\obj\Debug\net6.0\FileOperation.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\obj\Debug\net6.0\FileOperation.dll
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\obj\Debug\net6.0\refint\FileOperation.dll
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\obj\Debug\net6.0\FileOperation.pdb
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\obj\Debug\net6.0\FileOperation.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\FileOperation\obj\Debug\net6.0\ref\FileOperation.dll
