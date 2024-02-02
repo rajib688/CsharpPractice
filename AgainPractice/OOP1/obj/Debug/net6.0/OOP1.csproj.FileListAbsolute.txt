@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\bin\Debug\net6.0\OOP1.exe
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\bin\Debug\net6.0\OOP1.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\bin\Debug\net6.0\OOP1.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\bin\Debug\net6.0\OOP1.dll
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\bin\Debug\net6.0\OOP1.pdb
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\obj\Debug\net6.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\obj\Debug\net6.0\OOP1.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\obj\Debug\net6.0\OOP1.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\obj\Debug\net6.0\OOP1.dll
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\obj\Debug\net6.0\refint\OOP1.dll
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\obj\Debug\net6.0\OOP1.pdb
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\obj\Debug\net6.0\OOP1.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\OOP1\obj\Debug\net6.0\ref\OOP1.dll
