@@ -22,6 +22,7 @@ foreach (var b in data)
 {
     fileStream.WriteByte(b);
 }
+
 fileStream.Flush();
 
 

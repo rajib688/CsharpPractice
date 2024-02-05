@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\bin\Debug\net6.0\FileCreateRename.exe
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\bin\Debug\net6.0\FileCreateRename.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\bin\Debug\net6.0\FileCreateRename.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\bin\Debug\net6.0\FileCreateRename.dll
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\bin\Debug\net6.0\FileCreateRename.pdb
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\obj\Debug\net6.0\FileCreateRename.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\obj\Debug\net6.0\FileCreateRename.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\obj\Debug\net6.0\FileCreateRename.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\obj\Debug\net6.0\FileCreateRename.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\obj\Debug\net6.0\FileCreateRename.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\obj\Debug\net6.0\FileCreateRename.dll
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\obj\Debug\net6.0\refint\FileCreateRename.dll
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\obj\Debug\net6.0\FileCreateRename.pdb
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\obj\Debug\net6.0\FileCreateRename.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\FileCreateRename\obj\Debug\net6.0\ref\FileCreateRename.dll

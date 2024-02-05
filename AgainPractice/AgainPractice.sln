@@ -45,7 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityFrameworkExample", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileOperation", "FileOperation\FileOperation.csproj", "{B707D562-A043-4C69-9519-A0E4910A4CDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{8829772C-A90A-415D-BB58-A1432DAA808D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{8829772C-A90A-415D-BB58-A1432DAA808D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileCreateRename", "FileCreateRename\FileCreateRename.csproj", "{1DA070F2-3AFE-4AE1-B634-55E2FC630482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciple", "SolidPrinciple\SolidPrinciple.csproj", "{54B91BB3-2BF5-4E7F-B5A7-149569D8AEB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{8829772C-A90A-415D-BB58-A1432DAA808D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8829772C-A90A-415D-BB58-A1432DAA808D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8829772C-A90A-415D-BB58-A1432DAA808D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DA070F2-3AFE-4AE1-B634-55E2FC630482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DA070F2-3AFE-4AE1-B634-55E2FC630482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DA070F2-3AFE-4AE1-B634-55E2FC630482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DA070F2-3AFE-4AE1-B634-55E2FC630482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B91BB3-2BF5-4E7F-B5A7-149569D8AEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B91BB3-2BF5-4E7F-B5A7-149569D8AEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B91BB3-2BF5-4E7F-B5A7-149569D8AEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B91BB3-2BF5-4E7F-B5A7-149569D8AEB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
