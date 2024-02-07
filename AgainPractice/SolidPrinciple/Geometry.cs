@@ -6,20 +6,40 @@ using System.Threading.Tasks;
 
 namespace SolidPrinciple
 {
-    public class Geometry // Open Closed Desgin principle role violation
-    {
-        public double CalculateRectangleArea(double width, double height)
-        {
-            return width* height;
-        }
 
-        public double CalculateCircleArea(double radius)
+    public class RectangleGeometry  /* Open Closed Desgin principle*/
+    {
+        public double Width; 
+        public double Height;
+
+        public double CalculateRectangleArea()
         {
-            return Math.PI * radius * radius;
+            return Width* Height;
         }
     }
 
-    public class CarProvider  // Open Closed Desgin principle role violation
+    public class AdvanceRectangleGeometry : RectangleGeometry /*Open Closed Desgin principle*/
+    { 
+        public double CalculatePerimeter()
+        {
+            return 2 * (Width * Height);
+        }
+    }
+
+    //public class Geometry // Open Closed Desgin principle role violation kore 
+    //{
+    //    public double CalculateRectangleArea(double width, double height)
+    //    {
+    //        return width* height;
+    //    }
+
+    //    public double CalculateCircleArea(double radius)
+    //    {
+    //        return Math.PI * radius * radius;
+    //    }
+    //}
+
+    public class CarProvider  // Open Closed Desgin principle role violation kore 
     {
         public object GetCar(string opition)
         {

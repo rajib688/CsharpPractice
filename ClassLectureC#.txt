@@ -15,6 +15,9 @@ Class-15: Migration, Fluent API,
 Class-16: File, Directory, 
 Class-17: OOP, 
 Class-19: OOD, Single Responsibility Principle(SRP), Open Closed Design Principle(OCDP), 
+Liskov Substitution Principle(LSP),Interface Segration Principle(ISP), Dependancy Inversion Principle(DIP)
+Class-20:
+
 
 Class, Object: Class akta design part r design ar protek bostuto holo ak akta Object.
 static: static class ba static veriable Class ar sathe relation but instand ar sathe na use case common field.
@@ -71,6 +74,9 @@ FileInfo
 SRP: Akta item niye kaj kora, no one more item work in the single responsibility principle.
 
 OCDP: Amra amn vabe code likhbo jeta bar bar code change kora lage na.
+
+LSP: Ata multo Inheritance ar jonny use hoy, somojatio hote hbe.
+
 
 
 MethodName Always Verb
