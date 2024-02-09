@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\bin\Debug\net6.0\LambdaMethod.exe
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\bin\Debug\net6.0\LambdaMethod.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\bin\Debug\net6.0\LambdaMethod.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\bin\Debug\net6.0\LambdaMethod.dll
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\bin\Debug\net6.0\LambdaMethod.pdb
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\obj\Debug\net6.0\LambdaMethod.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\obj\Debug\net6.0\LambdaMethod.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\obj\Debug\net6.0\LambdaMethod.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\obj\Debug\net6.0\LambdaMethod.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\obj\Debug\net6.0\LambdaMethod.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\obj\Debug\net6.0\LambdaMethod.dll
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\obj\Debug\net6.0\refint\LambdaMethod.dll
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\obj\Debug\net6.0\LambdaMethod.pdb
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\obj\Debug\net6.0\LambdaMethod.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\LambdaMethod\obj\Debug\net6.0\ref\LambdaMethod.dll

@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\bin\Debug\net6.0\Delegates.exe
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\bin\Debug\net6.0\Delegates.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\bin\Debug\net6.0\Delegates.dll
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\bin\Debug\net6.0\Delegates.pdb
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\obj\Debug\net6.0\Delegates.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\obj\Debug\net6.0\Delegates.dll
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\obj\Debug\net6.0\Delegates.pdb
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\Delegates\obj\Debug\net6.0\ref\Delegates.dll

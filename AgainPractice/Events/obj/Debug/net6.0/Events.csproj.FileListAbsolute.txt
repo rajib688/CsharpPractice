@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\Events\bin\Debug\net6.0\Events.exe
+H:\GitHub\CsharpPractice\AgainPractice\Events\bin\Debug\net6.0\Events.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\Events\bin\Debug\net6.0\Events.dll
+H:\GitHub\CsharpPractice\AgainPractice\Events\bin\Debug\net6.0\Events.pdb
+H:\GitHub\CsharpPractice\AgainPractice\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\Events\obj\Debug\net6.0\Events.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\Events\obj\Debug\net6.0\Events.dll
+H:\GitHub\CsharpPractice\AgainPractice\Events\obj\Debug\net6.0\refint\Events.dll
+H:\GitHub\CsharpPractice\AgainPractice\Events\obj\Debug\net6.0\Events.pdb
+H:\GitHub\CsharpPractice\AgainPractice\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\Events\obj\Debug\net6.0\ref\Events.dll

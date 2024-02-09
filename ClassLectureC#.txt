@@ -16,7 +16,7 @@ Class-16: File, Directory,
 Class-17: OOP, 
 Class-19: OOD, Single Responsibility Principle(SRP), Open Closed Design Principle(OCDP), 
 Liskov Substitution Principle(LSP),Interface Segration Principle(ISP), Dependancy Inversion Principle(DIP)
-Class-20:
+Class-20: Delegates, Events, Linq,
 
 
 Class, Object: Class akta design part r design ar protek bostuto holo ak akta Object.
@@ -77,7 +77,15 @@ OCDP: Amra amn vabe code likhbo jeta bar bar code change kora lage na.
 
 LSP: Ata multo Inheritance ar jonny use hoy, somojatio hote hbe.
 
+ISP: 
 
+DIP: 
+
+Delegates: Delegate is a type that represents references to methods with a particular parameter list and return type.
+
+Events: 
+
+Linq: 
 
 MethodName Always Verb
 ClassName, VeriableName, Property Always Noun
