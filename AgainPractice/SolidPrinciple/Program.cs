@@ -5,4 +5,4 @@ Console.WriteLine("Hello, World!");
 
 
 T123 t123 = new T123();
-t123.Move();
+//t123.Move();

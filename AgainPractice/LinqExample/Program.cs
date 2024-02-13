@@ -1,8 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-
-
 int[] ages = new int[] { 5, 9, 3, 23, 40 };
 
 //select * from Ages where age<10

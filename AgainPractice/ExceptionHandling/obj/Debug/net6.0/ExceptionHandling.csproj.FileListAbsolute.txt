@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.exe
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.dll
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\bin\Debug\net6.0\ExceptionHandling.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.dll
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\obj\Debug\net6.0\refint\ExceptionHandling.dll
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\obj\Debug\net6.0\ExceptionHandling.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\ExceptionHandling\obj\Debug\net6.0\ref\ExceptionHandling.dll

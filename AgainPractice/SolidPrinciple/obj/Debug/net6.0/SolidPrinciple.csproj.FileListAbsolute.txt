@@ -1,0 +1,5 @@
+H:\GitHub\CsharpPractice\AgainPractice\SolidPrinciple\obj\Debug\net6.0\SolidPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\SolidPrinciple\obj\Debug\net6.0\SolidPrinciple.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\SolidPrinciple\obj\Debug\net6.0\SolidPrinciple.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\SolidPrinciple\obj\Debug\net6.0\SolidPrinciple.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\SolidPrinciple\obj\Debug\net6.0\SolidPrinciple.sourcelink.json

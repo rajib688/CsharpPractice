@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\bin\Debug\net6.0\IndexerExample.exe
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\bin\Debug\net6.0\IndexerExample.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\bin\Debug\net6.0\IndexerExample.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\bin\Debug\net6.0\IndexerExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\bin\Debug\net6.0\IndexerExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\obj\Debug\net6.0\IndexerExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\obj\Debug\net6.0\IndexerExample.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\obj\Debug\net6.0\IndexerExample.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\obj\Debug\net6.0\IndexerExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\obj\Debug\net6.0\IndexerExample.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\obj\Debug\net6.0\IndexerExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\obj\Debug\net6.0\refint\IndexerExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\obj\Debug\net6.0\IndexerExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\obj\Debug\net6.0\IndexerExample.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\IndexerExample\obj\Debug\net6.0\ref\IndexerExample.dll

@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\bin\Debug\net6.0\ReflectionExamples.exe
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\bin\Debug\net6.0\ReflectionExamples.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\bin\Debug\net6.0\ReflectionExamples.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\bin\Debug\net6.0\ReflectionExamples.dll
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\bin\Debug\net6.0\ReflectionExamples.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\obj\Debug\net6.0\ReflectionExamples.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\obj\Debug\net6.0\ReflectionExamples.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\obj\Debug\net6.0\ReflectionExamples.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\obj\Debug\net6.0\ReflectionExamples.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\obj\Debug\net6.0\ReflectionExamples.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\obj\Debug\net6.0\ReflectionExamples.dll
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\obj\Debug\net6.0\refint\ReflectionExamples.dll
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\obj\Debug\net6.0\ReflectionExamples.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\obj\Debug\net6.0\ReflectionExamples.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\ReflectionExamples\obj\Debug\net6.0\ref\ReflectionExamples.dll

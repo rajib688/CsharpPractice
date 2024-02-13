@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\bin\Debug\net6.0\ExtensionMethodsExample.exe
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\bin\Debug\net6.0\ExtensionMethodsExample.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\bin\Debug\net6.0\ExtensionMethodsExample.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\bin\Debug\net6.0\ExtensionMethodsExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\bin\Debug\net6.0\ExtensionMethodsExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\obj\Debug\net6.0\ExtensionMethodsExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\obj\Debug\net6.0\ExtensionMethodsExample.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\obj\Debug\net6.0\ExtensionMethodsExample.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\obj\Debug\net6.0\ExtensionMethodsExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\obj\Debug\net6.0\ExtensionMethodsExample.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\obj\Debug\net6.0\ExtensionMethodsExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\obj\Debug\net6.0\refint\ExtensionMethodsExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\obj\Debug\net6.0\ExtensionMethodsExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\obj\Debug\net6.0\ExtensionMethodsExample.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\ExtensionMethodsExample\obj\Debug\net6.0\ref\ExtensionMethodsExample.dll

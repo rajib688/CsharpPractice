@@ -50,10 +50,10 @@ namespace SolidPrinciple
 
         //Liskov Substitution Principle
 
-        public class Common
+        public  class Common
         {
-            public string Name { get; set; }
-            public double weight { get; set; }
+            public  string Name { get; set; }
+            public  double weight { get; set; }
         }
 
         public class X905 : Common

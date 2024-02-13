@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\bin\Debug\net6.0\DynamicExample.exe
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\bin\Debug\net6.0\DynamicExample.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\bin\Debug\net6.0\DynamicExample.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\bin\Debug\net6.0\DynamicExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\bin\Debug\net6.0\DynamicExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\obj\Debug\net6.0\DynamicExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\obj\Debug\net6.0\DynamicExample.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\obj\Debug\net6.0\DynamicExample.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\obj\Debug\net6.0\DynamicExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\obj\Debug\net6.0\DynamicExample.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\obj\Debug\net6.0\DynamicExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\obj\Debug\net6.0\refint\DynamicExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\obj\Debug\net6.0\DynamicExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\obj\Debug\net6.0\DynamicExample.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\DynamicExample\obj\Debug\net6.0\ref\DynamicExample.dll

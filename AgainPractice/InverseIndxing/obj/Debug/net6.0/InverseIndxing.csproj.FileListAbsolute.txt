@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\bin\Debug\net6.0\InverseIndxing.exe
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\bin\Debug\net6.0\InverseIndxing.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\bin\Debug\net6.0\InverseIndxing.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\bin\Debug\net6.0\InverseIndxing.dll
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\bin\Debug\net6.0\InverseIndxing.pdb
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\obj\Debug\net6.0\InverseIndxing.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\obj\Debug\net6.0\InverseIndxing.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\obj\Debug\net6.0\InverseIndxing.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\obj\Debug\net6.0\InverseIndxing.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\obj\Debug\net6.0\InverseIndxing.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\obj\Debug\net6.0\InverseIndxing.dll
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\obj\Debug\net6.0\refint\InverseIndxing.dll
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\obj\Debug\net6.0\InverseIndxing.pdb
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\obj\Debug\net6.0\InverseIndxing.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\InverseIndxing\obj\Debug\net6.0\ref\InverseIndxing.dll

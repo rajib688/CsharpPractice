@@ -16,8 +16,10 @@ Class-16: File, Directory,
 Class-17: OOP, 
 Class-19: OOD, Single Responsibility Principle(SRP), Open Closed Design Principle(OCDP), 
 Liskov Substitution Principle(LSP),Interface Segration Principle(ISP), Dependancy Inversion Principle(DIP)
-Class-20: Delegates, Events, Linq,
-
+Class-20: Delegates, Events, Func, Action, Linq,
+Class-21: Expression, ExceptionHandling, Indexer, 
+Class-22: Reflection, Dynamic, 
+Class-23: ExtensionMethods, SwitchStatement, InverseIndexing,
 
 Class, Object: Class akta design part r design ar protek bostuto holo ak akta Object.
 static: static class ba static veriable Class ar sathe relation but instand ar sathe na use case common field.
@@ -77,15 +79,35 @@ OCDP: Amra amn vabe code likhbo jeta bar bar code change kora lage na.
 
 LSP: Ata multo Inheritance ar jonny use hoy, somojatio hote hbe.
 
-ISP: 
+ISP: multo boro boro interface toyri na kore choto choto interface toyri kore kaj kora.
 
-DIP: 
+DIP: ata multo kono method ar dependency na kore boron Interface ar opr depens kore.
 
 Delegates: Delegate is a type that represents references to methods with a particular parameter list and return type.
 
-Events: 
+Events:  An event is a notification sent by an object to signal the occurrence of an action.
 
-Linq: 
+Func: The Func delegate takes zero, one or more input parameters, and returns a value (with its out parameter).
+
+Action: The action takes zero, one or more input parameters, but does not return anything.
+
+Linq: Language Integrated Query. Collection integated jonny use hoy.
+
+Expression: An expression is a combination of operands (variables, literals, method calls) and operators that can be evaluated to a single value.
+
+ExceptionHandling: Exception Handling is a process to handle runtime errors. We perform exception handling so that normal flow of the application can be maintained even after runtime errors.
+
+Indexer: Indexers allow instances of a class or struct to be indexed just like array.
+
+Reflection: code ar maddome code info ber kora jaw. Power full type typeof(), GetType(), GetConstructor() ata parameter dite hbe, 
+
+Dynamic: run time a Execute hoy, compiled time check kore na, run time a check kore.
+
+ExtensionMethods: Existing class modde method add kora. class ta obossoi static class hte hbe.
+
+SwitchStatement: Switch statements execute a code block from a list of case conditions for which the expression validates as true . Switch statements are similar to if/else statements.
+
+Inverse Indexing:  ata ulta vabe kaj kore.
 
 MethodName Always Verb
 ClassName, VeriableName, Property Always Noun

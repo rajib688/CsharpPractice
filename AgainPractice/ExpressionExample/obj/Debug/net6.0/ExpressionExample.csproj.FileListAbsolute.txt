@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\bin\Debug\net6.0\ExpressionExample.exe
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\bin\Debug\net6.0\ExpressionExample.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\bin\Debug\net6.0\ExpressionExample.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\bin\Debug\net6.0\ExpressionExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\bin\Debug\net6.0\ExpressionExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\obj\Debug\net6.0\ExpressionExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\obj\Debug\net6.0\ExpressionExample.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\obj\Debug\net6.0\ExpressionExample.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\obj\Debug\net6.0\ExpressionExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\obj\Debug\net6.0\ExpressionExample.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\obj\Debug\net6.0\ExpressionExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\obj\Debug\net6.0\refint\ExpressionExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\obj\Debug\net6.0\ExpressionExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\obj\Debug\net6.0\ExpressionExample.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\ExpressionExample\obj\Debug\net6.0\ref\ExpressionExample.dll

@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\bin\Debug\net6.0\LinqExample.exe
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\bin\Debug\net6.0\LinqExample.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\bin\Debug\net6.0\LinqExample.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\bin\Debug\net6.0\LinqExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\bin\Debug\net6.0\LinqExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\obj\Debug\net6.0\LinqExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\obj\Debug\net6.0\LinqExample.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\obj\Debug\net6.0\LinqExample.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\obj\Debug\net6.0\LinqExample.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\obj\Debug\net6.0\LinqExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\obj\Debug\net6.0\refint\LinqExample.dll
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\obj\Debug\net6.0\LinqExample.pdb
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\obj\Debug\net6.0\LinqExample.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\LinqExample\obj\Debug\net6.0\ref\LinqExample.dll

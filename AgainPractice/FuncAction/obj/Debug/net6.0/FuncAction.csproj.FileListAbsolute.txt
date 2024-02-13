@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\bin\Debug\net6.0\FuncAction.exe
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\bin\Debug\net6.0\FuncAction.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\bin\Debug\net6.0\FuncAction.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\bin\Debug\net6.0\FuncAction.dll
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\bin\Debug\net6.0\FuncAction.pdb
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\obj\Debug\net6.0\FuncAction.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\obj\Debug\net6.0\FuncAction.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\obj\Debug\net6.0\FuncAction.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\obj\Debug\net6.0\FuncAction.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\obj\Debug\net6.0\FuncAction.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\obj\Debug\net6.0\FuncAction.dll
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\obj\Debug\net6.0\refint\FuncAction.dll
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\obj\Debug\net6.0\FuncAction.pdb
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\obj\Debug\net6.0\FuncAction.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\FuncAction\obj\Debug\net6.0\ref\FuncAction.dll
