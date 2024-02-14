@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\Threading\bin\Debug\net6.0\Threading.exe
+H:\GitHub\CsharpPractice\AgainPractice\Threading\bin\Debug\net6.0\Threading.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\Threading\bin\Debug\net6.0\Threading.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\Threading\bin\Debug\net6.0\Threading.dll
+H:\GitHub\CsharpPractice\AgainPractice\Threading\bin\Debug\net6.0\Threading.pdb
+H:\GitHub\CsharpPractice\AgainPractice\Threading\obj\Debug\net6.0\Threading.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\Threading\obj\Debug\net6.0\Threading.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\Threading\obj\Debug\net6.0\Threading.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\Threading\obj\Debug\net6.0\Threading.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\Threading\obj\Debug\net6.0\Threading.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\Threading\obj\Debug\net6.0\Threading.dll
+H:\GitHub\CsharpPractice\AgainPractice\Threading\obj\Debug\net6.0\refint\Threading.dll
+H:\GitHub\CsharpPractice\AgainPractice\Threading\obj\Debug\net6.0\Threading.pdb
+H:\GitHub\CsharpPractice\AgainPractice\Threading\obj\Debug\net6.0\Threading.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\Threading\obj\Debug\net6.0\ref\Threading.dll

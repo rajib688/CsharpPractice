@@ -84,3 +84,15 @@ Console.WriteLine(Path.Combine(location, "text", "text1"));
 
 Console.WriteLine(Path.GetExtension(PathName));
 
+//new using Statement
+
+using FileStream fss = File.Open("Fullpath", FileMode.Open);
+
+//Old using Statement 
+
+using (FileStream fs = File.Open("Fullpath", FileMode.Open))
+{
+
+}
+
+Console.WriteLine("Code Ending");
