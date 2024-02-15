@@ -20,7 +20,7 @@ Class-20: Delegates, Events, Func, Action, Linq,
 Class-21: Expression, ExceptionHandling, Indexer, 
 Class-22: Reflection, Dynamic, 
 Class-23: ExtensionMethods, SwitchStatement, InverseIndexing, Records,
-Class-24: Threading,
+Class-24: Threading, async, 
 
 Class, Object: Class akta design part r design ar protek bostuto holo ak akta Object.
 static: static class ba static veriable Class ar sathe relation but instand ar sathe na use case common field.
@@ -112,7 +112,9 @@ Inverse Indexing:  ata ulta vabe kaj kore.
 
 Records: reference type class ar moto 
 
-Threading: Threading using paralal processing and acelinggronice ar jonny, 
+Threading: Threading using paralal processing and acelinggronice ar jonny.
+
+Async: Threading using paralal processing and acelinggronice ar jonny.
 
 MethodName Always Verb
 ClassName, VeriableName, Property Always Noun
