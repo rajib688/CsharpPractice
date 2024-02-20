@@ -77,9 +77,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchStatement", "SwitchSt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InverseIndxing", "InverseIndxing\InverseIndxing.csproj", "{D61A3CD0-78A5-4A35-8049-9935EA0CF93A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordsExample", "RecordsExample\RecordsExample.csproj", "{EA9D33F2-F69D-41FD-84D3-FA3B8C3EEA3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordsExample", "RecordsExample\RecordsExample.csproj", "{EA9D33F2-F69D-41FD-84D3-FA3B8C3EEA3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threading\Threading.csproj", "{8FBD2BD9-97AD-482D-B03A-ECFA5C218A8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Threading", "Threading\Threading.csproj", "{8FBD2BD9-97AD-482D-B03A-ECFA5C218A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{455CDC06-00D1-4462-B3B2-ABB36D101C6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{8FBD2BD9-97AD-482D-B03A-ECFA5C218A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FBD2BD9-97AD-482D-B03A-ECFA5C218A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FBD2BD9-97AD-482D-B03A-ECFA5C218A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455CDC06-00D1-4462-B3B2-ABB36D101C6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455CDC06-00D1-4462-B3B2-ABB36D101C6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455CDC06-00D1-4462-B3B2-ABB36D101C6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455CDC06-00D1-4462-B3B2-ABB36D101C6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

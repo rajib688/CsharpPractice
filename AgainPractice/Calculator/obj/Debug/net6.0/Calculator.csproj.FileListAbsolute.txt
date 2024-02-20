@@ -1,0 +1,15 @@
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\bin\Debug\net6.0\Calculator.exe
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\bin\Debug\net6.0\Calculator.deps.json
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\bin\Debug\net6.0\Calculator.dll
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\bin\Debug\net6.0\Calculator.pdb
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\obj\Debug\net6.0\Calculator.sourcelink.json
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\obj\Debug\net6.0\Calculator.dll
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\obj\Debug\net6.0\Calculator.pdb
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+H:\GitHub\CsharpPractice\AgainPractice\Calculator\obj\Debug\net6.0\ref\Calculator.dll
